@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on ERIK.VAN.CRADDOCK</title>
+    <link>http://erik.craddock.org/page/</link>
+    <description>Recent content in Pages on ERIK.VAN.CRADDOCK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Dec 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://erik.craddock.org/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Erik Craddock</title>
+      <link>http://erik.craddock.org/aboutme/</link>
+      <pubDate>Wed, 08 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://erik.craddock.org/aboutme/</guid>
+      <description>&lt;p&gt;I am a musician, writer and software developer not necessarily in that order depending on the day. This website serves as a sort of haphazard living autobiography.&lt;/p&gt;
+
+&lt;p&gt;I would like to state that it is written for an audience of one, me, but that would be a lie. I suffer just enough from megalomania to believe that others might be interested in my ramblings.&lt;/p&gt;
+
+&lt;p&gt;Practically speaking this website is a platform for documenting my ever evolving interests, ideas and life experiences.&lt;/p&gt;
+
+&lt;p&gt;Erik Craddock&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
