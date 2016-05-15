@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on ERIK.VAN.CRADDOCK</title>
-    <link>http://erik.craddock.org/page/</link>
+    <link>http://erikvancraddock.com/page/</link>
     <description>Recent content in Pages on ERIK.VAN.CRADDOCK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 May 2016 10:24:42 -0500</lastBuildDate>
-    <atom:link href="http://erik.craddock.org/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://erikvancraddock.com/page/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>What I&#39;m Reading</title>
-      <link>http://erik.craddock.org/what-im-reading/</link>
+      <link>http://erikvancraddock.com/what-im-reading/</link>
       <pubDate>Sun, 15 May 2016 10:24:42 -0500</pubDate>
       
-      <guid>http://erik.craddock.org/what-im-reading/</guid>
+      <guid>http://erikvancraddock.com/what-im-reading/</guid>
       <description>
 
 &lt;p&gt;I love to read.  I read so much that sometimes I worry about how healthy it might be. When I am in need of a good book I ask my friends. So it is only fair that I also recommend the books that I enjoy.&lt;/p&gt;
@@ -37,10 +37,10 @@
     
     <item>
       <title>About Erik Craddock</title>
-      <link>http://erik.craddock.org/aboutme/</link>
+      <link>http://erikvancraddock.com/aboutme/</link>
       <pubDate>Wed, 08 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://erik.craddock.org/aboutme/</guid>
+      <guid>http://erikvancraddock.com/aboutme/</guid>
       <description>&lt;p&gt;I am a musician, writer and software developer not necessarily in that order depending on the day. This website serves as a sort of haphazard living autobiography.&lt;/p&gt;
 
 &lt;p&gt;I would like to state that it is written for an audience of one, me, but that would be a lie. I suffer just enough from megalomania to believe that others might be interested in my ramblings.&lt;/p&gt;
