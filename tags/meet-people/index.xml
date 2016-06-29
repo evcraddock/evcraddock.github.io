@@ -21,13 +21,13 @@
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;As &lt;a href=&#34;http://erikvancraddock.com/2016/03/how-we-meet-people/&#34;&gt;I have mentioned in the past&lt;/a&gt;, typically when we meet people, it is because we share an interest or a situation. This is the key. Any system that helps people meet will revolve around the events that they have in common. In order to manage the quality of the people we meet, we must manage the events where we meet them. &lt;/span&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;trusted-host:658de8c6e6ab357f454b71a330e49edf&#34;&gt;Trusted Host&lt;/h3&gt;
+&lt;h3 id=&#34;trusted-host&#34;&gt;Trusted Host&lt;/h3&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;To feel comfortable attending an event, we must trust that the other people attending are decent. How can you gain that trust when dealing with strangers? The best way is if there is a person that you both know and trust. Think about the initial conversations that you typically have with a stranger. They usually turn into efforts at finding things you have in common,  “Where are you from?”,  “Oh, really, do you know so and so?” Etc. If that doesn’t result in a match we move on to common interests by asking questions like “What do you do?”. &lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;For this event management system to work, it is important that there is a host with a good reputation. The host is responsible for making sure that everything runs smoothly and that there are no assholes. The more a host is respected, the more likely people will be to risk their time attending.&lt;/span&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;vetting-system:658de8c6e6ab357f454b71a330e49edf&#34;&gt;Vetting System&lt;/h3&gt;
+&lt;h3 id=&#34;vetting-system&#34;&gt;Vetting System&lt;/h3&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;In order to ensure that the right people attend, I propose a vetting system. Instead of sending out invitations, the host would share information about the event online. This would be either on social media or with a search engine that is dedicated to the type of event being held. People who are interested in attending would request an invitation. The host would be responsible for choosing the right people. The host could make that decision anyway they see fit. I suspect that a decision would be made based on the following criteria.&lt;/span&gt;&lt;/p&gt;
 
@@ -52,15 +52,15 @@
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;It might go without saying, but the event would be for a specific purpose. It might be to eat a certain type of food that the host makes. It could be to watch a sporting event on television. My favorite is a house party to listen to a local band. Again, the idea is to meet cool people who have similar interests as you. &lt;/span&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;reputation:658de8c6e6ab357f454b71a330e49edf&#34;&gt;Reputation&lt;/h3&gt;
+&lt;h3 id=&#34;reputation&#34;&gt;Reputation&lt;/h3&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;It should be possible for both the host and an attendee to build a reputation.  Everyone involved should be able to rate each other. Not only does it make it easier to get an invitation to another event, it also gives everyone an incentive to behave. If someone makes an ass of themselves at an event, they are less likely to get invited in the future. The person looks bad and it reflects poorly on the host that invited them.&lt;/span&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;assumptions:658de8c6e6ab357f454b71a330e49edf&#34;&gt;Assumptions&lt;/h3&gt;
+&lt;h3 id=&#34;assumptions&#34;&gt;Assumptions&lt;/h3&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;That is the basic idea for how to meet good people online in its raw form. I’ve made several assumptions that need to be tested. The biggest is, do people need help making friends? If so, are they worried about safety? Would a person be willing to request an invitation to a party? Would a host be interested in being choosy about who attends their event? Would attendees actually rate each other? Would an attendee agree to have their rating published for future hosts to see?&lt;/span&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;an-application:658de8c6e6ab357f454b71a330e49edf&#34;&gt;An Application&lt;/h3&gt;
+&lt;h3 id=&#34;an-application&#34;&gt;An Application&lt;/h3&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;The best way to test these assumptions is to actually build a web or mobile application and ask people to start using it. In lean startup language, a minimum viable product needs to be created. This application would allow a host to create and manage an event. A feature would exist to make it easy to publish the details to a social media site. Anyone interested in attending can see the host&amp;#8217;s rating / reputation. The person would click on the shared link to request an invitation. The host could optionally require that information such as a questionnaire be submitted to help with the vetting process.&lt;/span&gt;&lt;/p&gt;
 
@@ -78,31 +78,31 @@
       <guid>http://erikvancraddock.com/2016/03/how-we-meet-people/</guid>
       <description>
 
-&lt;h2 id=&#34;did-facebook-do-us-a-favor:735c674f5ae50a2d4b72d98456cae064&#34;&gt;Did Facebook do us a favor?&lt;/h2&gt;
+&lt;h2 id=&#34;did-facebook-do-us-a-favor&#34;&gt;Did Facebook do us a favor?&lt;/h2&gt;
 
 &lt;p&gt;It’s been said that social media websites, like Facebook, are ruining social interactions. I have always been of the opinion that these websites make it easy to know enough about your friends so that you never need to speak to them again. Usually, when I see a friend we discuss what happened since we saw each other last. That is hardly necessary when you are kept informed in real time of their day to day experiences. On top of that, it’s not unusual to learn that you really don’t have much in common with your friends. Or that honestly, you don’t like them. There is something about an open forum that brings out the worst in people.&lt;/p&gt;
 
 &lt;p&gt;But maybe, social media websites just brought out in the open a problem that we’ve always had but never noticed. Maybe, those friends that we only interact with on Twitter aren’t really our friends. Maybe, that buddy with the radical political opinion just doesn’t have the nerve to bring it up in person. Would that make him any less of a tool? Maybe, Facebook did us a favor.&lt;/p&gt;
 
-&lt;h3 id=&#34;meeting-people-is-hard:735c674f5ae50a2d4b72d98456cae064&#34;&gt;Meeting people is hard&lt;/h3&gt;
+&lt;h3 id=&#34;meeting-people-is-hard&#34;&gt;Meeting people is hard&lt;/h3&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;I am a bit of a homebody. I don’t like to get out that much. Having to smile and politely greet people sounds like a nightmare. It is so rare that I find other human beings that I have something in common with. Although, that could very well be because of how little I get out. The one friend that I actually make an effort to hang out with might be more antisocial than me. I just don’t know how to meet people.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;I believe that it is healthy to socialize with other people. There are plenty of studies that all but prove that an active social life will make you live longer. The problem is that most people I meet are either shallow, temperamental or unreliable, or all of the above. I wonder how I seem to them? What I really need is a way to meet other people in person with similar interests that aren’t assholes. It would be nice if these people were also looking for friends.&lt;/span&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;no-perfect-solutions:735c674f5ae50a2d4b72d98456cae064&#34;&gt;No perfect solutions&lt;/h3&gt;
+&lt;h3 id=&#34;no-perfect-solutions&#34;&gt;No perfect solutions&lt;/h3&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;There are solutions to this problem but none of them completely work for me. There are lots of websites out there specifically designed to help you find that special somebody. I’m not interested in that. I already found my special somebody. I have been married to her for seventeen years. There are no services that I am aware of that help people look for just a normal friend. Probably because that sounds kind of pathetic.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;When you meet a new person it is either because you have a common interest or situation. Depending on where you meet, there may also be certain behaviors that are appropriate. Generally speaking, the places that expect appropriate behaviors are safer than those with fewer expectations of proper etiquette. A lot of the time this means that you don’t really get to know a person as they are. Instead, you get a situationally appropriate version of them.  &lt;/span&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;places-we-meet-people:735c674f5ae50a2d4b72d98456cae064&#34;&gt;Places we meet people&lt;/h3&gt;
+&lt;h3 id=&#34;places-we-meet-people&#34;&gt;Places we meet people&lt;/h3&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Here are a few examples of safe places where people typically meet other people: work, church, school, &lt;a href=&#34;http://yonomitt.com/blog/2016/3/23/meeting-people-is-easy-but-hard&#34; target=&#34;_blank&#34;&gt;conventions&lt;/a&gt;, or an event for their kids such as a baseball game etc. These are all locations where you should probably bring, at most, your rated PG personality. You are less likely to get into a fight at these places although you might watch out for some of those soccer moms.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Other places to meet people might be: parties, bars, clubs or concerts for example. It is probably ok to let your hair down here but these are also some of the riskier locations. It is rare to get a DUI coming home from church, not so much from the bar. Remember, Uber is your friend. Also, don’t expect much stimulating conversation unless you are particularly fascinated with television, fashion, sports or Donald Trump. &lt;/span&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;meeting-people-online-is-creepy:735c674f5ae50a2d4b72d98456cae064&#34;&gt;Meeting people online is creepy&lt;/h3&gt;
+&lt;h3 id=&#34;meeting-people-online-is-creepy&#34;&gt;Meeting people online is creepy&lt;/h3&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;If you are looking for a lively debate, look no further than the Internet. You can find plenty of it online in forums or social media. The Internet has added all kinds of variety when it comes to meeting people. Of all the social networks, Twitter is the only one that I think you can reasonably meet new people. In my experience the others, notably Facebook, are just places where we keep track of the friends we meet in person. &lt;/span&gt;&lt;/p&gt;
 
@@ -110,7 +110,7 @@
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;There are services that combine both the risks of meeting online and meeting in person. Dating sites like eHarmony are probably the safest but as I mentioned before, I don’t want a date. It is also possible to find groups on Craig’s list or sites like meetup.com. The problem is that you don’t know what you are getting into until you get there.&lt;/span&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;what-can-we-do-about-it:735c674f5ae50a2d4b72d98456cae064&#34;&gt;What can we do about it?&lt;/h3&gt;
+&lt;h3 id=&#34;what-can-we-do-about-it&#34;&gt;What can we do about it?&lt;/h3&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;So what is the answer? Is it possible to meet real people, who aren’t putting on a show, without risking boredom, a DUI, or possibly your life?  Surely there must be some safe way to use the Internet to improve the way we meet people in person. I think that this is a problem that is worth solving. &lt;/span&gt;&lt;/p&gt;
 

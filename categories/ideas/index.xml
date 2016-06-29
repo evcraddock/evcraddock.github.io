@@ -6,8 +6,81 @@
     <description>Recent content in Ideas on ERIK.VAN.CRADDOCK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jun 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://erikvancraddock.com/categories/ideas/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How I consume the Internet</title>
+      <link>http://erikvancraddock.com/2016/06/29/how-i-consume-the-internet</link>
+      <pubDate>Wed, 29 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikvancraddock.com/2016/06/29/how-i-consume-the-internet</guid>
+      <description>
+
+&lt;p&gt;I am an information junkie. I go from one obsession to the next. The Internet deals me out a constant supply of articles, images, music and video on any and every subject I can imagine. It is very easy to get sucked in. If I&amp;rsquo;m not careful I will find myself reading about some &lt;a href=&#34;http://www.theapricity.com/forum/showthread.php?178939-8-Most-Bizarre-Religious-Rites&#34;&gt;obscure religious rite&lt;/a&gt; or the &lt;a href=&#34;http://news.nationalgeographic.com/2016/06/seahorse-reproduction-behavior-conservation/&#34;&gt;mating habits of deep sea creatures&lt;/a&gt; or &lt;a href=&#34;https://www.fanfiction.net/u/55503/Electric-Monk&#34;&gt;Neuromancer fan fiction&lt;/a&gt;. Every subject is represented. There are niche groups living within niche groups. Unbelievably, there is just too much information.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been &lt;a href=&#34;http://erikvancraddock.com/2013/04/how-i-replaced-google-reader-with-pinboard/&#34;&gt;dealing with this issue&lt;/a&gt; for a long time. We all deal with it to varying degrees. It is necessary to limit ourselves or we will be on the Internet all day. Some of us have to go to work and food is nice from time to time.&lt;/p&gt;
+
+&lt;p&gt;But how do we deal with it? We can&amp;rsquo;t just ignore it. Every year, more jobs revolve around data from the Internet. My job certainly does. I am a software developer, a field that is constantly changing. If I don&amp;rsquo;t keep myself informed, I will soon find my skills irrelevant. It&amp;rsquo;s not just my job that is effected. In fact, almost every aspect of my life is improved by consuming information on the Internet. What is the best music or movies out right now? What advances in technology have been made? How much are Bitcoins selling for? Will George R.R. Martin ever relase the next Song of Ice and Fire book? Pretty sure the answer is no, he&amp;rsquo;s just going to let HBO write it for him.&lt;/p&gt;
+
+&lt;!--
+### Past attempts at solving the problem
+ Below are a few.
+
+* **Google Reader**
+    was my RSS reader of choice until it was shutdown in 2013. Each day, usually in the morning, I would scan the posts of each feed and star anything that looked interesting. This supplied me with an almost never ending list of posts to read. My favorite features was Reader&#39;s ability to view the contents of a post from within the application. It stripped out most of the formatting and the ads and left me with simple readable text.
+
+    There were a few drawbacks. It wasn&#39;t always possible to view a website from within Reader. Video was not supported. Also it wasn&#39;t possible to star articles from outside of a feed subscribed to through Reader.
+* **Pinboard / Twitter**
+    was how I initially replaced Google Reader. Pinboard is an application that allows you to create bookmarks by tagging links on the Internet. The primary feature that convinced me to use pinboard was it&#39;s ability to interact with other applications. There were several plugins that worked with popular web application. One of them was a Google Chrome plugin that let me mark any article that I came across as something I wanted to read later. The primary way that I discovered new content was Twitter. I followed people who wrote about subjects that I was interested in and bookmarked them. I could then get a list of articles that I wanted to read on Pinboard.
+
+    Pinboard&#39;s mobile application allowed me to view simplified versions of my bookmarks much like Google Reader. Unfortunately this feature wasn&#39;t implemented for the web application. I had to open each site in a new tab and remember to close it later. The other problem with this solution was Twitter. Even though everyone posted links to their Twitter stream, they also tweeted random thoughts and other texts that I had to sift through. I eventually looked for a new solution because this one was just too much of a pain in the ass.
+--&gt;
+
+&lt;p&gt;I am faced with a horrible realization. There isn&amp;rsquo;t enough time in the day to consume everything on the Interet that interests me. I must limit myself or at least be more efficient. To maximize my time, I have devised a system for managing all of the articles, videos and images that I want to view.&lt;/p&gt;
+
+&lt;h4 id=&#34;my-tools&#34;&gt;My Tools&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;RSS Reader&lt;/strong&gt; -
+&lt;a href=&#34;https://www.goread.io/&#34;&gt;GoRead&lt;/a&gt; is an RSS reader that was created to replace all of the funcitonality of Google Reader, which was shutdown in 2013. Where most RSS readers that I have found try to be everything for everyone, GoRead does one thing good. It lets you subscribe to and view RSS feeds.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Bookmark Browser Plugin&lt;/strong&gt; -
+&lt;a href=&#34;https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj&#34;&gt;Save to Pocket&lt;/a&gt; is a browser extension for Chrome which adds a button next to the address bar used to tag links to read later with Pocket. The extension also adds a context menu item when you two finger tap a link using a Mac or right click using Windows. Another cool feature of the extension is the keyboard shortcut for saving a link. It is by default Command+Up+P for the Mac and Ctrl+Shift+S for Windows.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Read Later List&lt;/strong&gt; -
+&lt;a href=&#34;https://getpocket.com&#34;&gt;Pocket&lt;/a&gt; allows you to tag links and save them for later use but I typically use the default list as a list of web pages on the Internet that I intend to read.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Article Viewer&lt;/strong&gt; -
+Pocket lets me view articles three different ways: &lt;a href=&#34;https://getpocket.com&#34;&gt;web application&lt;/a&gt;, mobile application: &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro&amp;amp;hl=en&#34;&gt;Android&lt;/a&gt; | &lt;a href=&#34;https://itunes.apple.com/app/read-it-later-pro/id309601447?mt=8&#34;&gt;iPhone&lt;/a&gt;, native &lt;a href=&#34;https://itunes.apple.com/app/pocket/id568494494?ls=1&amp;amp;mt=12&#34;&gt;OSX application&lt;/a&gt;. Each gives me a list of links that I previously saved. When I click on a link, Pocket allows me to read using article view or web view. Article view cleans up the page so that it is mostly text. Web view displays the full website. If I am using the web application, web view open the link in a new tab. For both the native OSX and mobile applications, web view displays within the Pocket application.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;my-daily-process&#34;&gt;My Daily Process&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Discovery&lt;/strong&gt; -
+    At least once a day, using my RSS reader, I browse through new items by category. If the title looks interesting, I right click on the link and select &amp;ldquo;Save to Pocket&amp;rdquo;. On some occassions, I save a link to the read later list based entirely on the author. For example, I read everything Seth Godin writes. I also check sites like Reddit, Medium and Twitter a few times a week.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Browsing&lt;/strong&gt; -
+    Througout the day as I am browsing the Internet, I may come across something that looks interesting. I am able to save a bookmark using the Pocket bookmarking browser plugin. It keeps the popup window open long enough to allow me to tag the link if I care to. I can trigger saving the link to Pocket by either clicking on the extenion&amp;rsquo;s button next to the address bar or by the keyboard shortcut.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Reading&lt;/strong&gt; -
+    Whenever I am in the mood to read, I can open up Pocket using either the web, mobile or native OSX application. If I am using either the mobile or native application, the article displays in a frame with a button bar that lets me either archive, trash, tag or set the link as a favorite. Once I&amp;rsquo;m done reading, I tag and archive the article if I think it has future value. Otherwise I trash the document. I have yet to use the favorite feature.&lt;/p&gt;
+
+&lt;h4 id=&#34;missing-features&#34;&gt;Missing Features&lt;/h4&gt;
+
+&lt;p&gt;As easy and convenient as this system is, there are still some features that are missing that would make life easier.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RSS feeds for Tags&lt;/strong&gt; -
+There should be a way to tag a link on the internet and then subscribe to an RSS feed based on the tag. I use my RSS reader as a discovery application. Now, when I tag a link it goes straight to my read later list. If I could subscribe to a tag feed I could add to this list without having to decide to actually read the article or not. I could decide later during my actually discovery process. This would allow me to tag links without putting much thought into if I cared to read it later. I could tag links based off of many different criteria such as subject, author, or who recommended the link. It would be nice to have the ability to quickly tag links that might remind me of why I was interested in the subject in the first place.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Link priority&lt;/strong&gt; -
+It would be nice if I could prioritize how interested I was in a link. There are times when a certain link makes it to the front of the list and I just don&amp;rsquo;t have the energy to read it, but I do want to read it eventually. There should a way to push it to the back of the list or at least further down the list.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I am constantly tweaking this system of consuming data on the Internet. New tools come out all of the time, hopefully someone will create a way of fixing the missing features I mentioned. If you have a better system, I would love to hear about it.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Meet Good People Online</title>
@@ -21,13 +94,13 @@
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;As &lt;a href=&#34;http://erikvancraddock.com/2016/03/how-we-meet-people/&#34;&gt;I have mentioned in the past&lt;/a&gt;, typically when we meet people, it is because we share an interest or a situation. This is the key. Any system that helps people meet will revolve around the events that they have in common. In order to manage the quality of the people we meet, we must manage the events where we meet them. &lt;/span&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;trusted-host:658de8c6e6ab357f454b71a330e49edf&#34;&gt;Trusted Host&lt;/h3&gt;
+&lt;h3 id=&#34;trusted-host&#34;&gt;Trusted Host&lt;/h3&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;To feel comfortable attending an event, we must trust that the other people attending are decent. How can you gain that trust when dealing with strangers? The best way is if there is a person that you both know and trust. Think about the initial conversations that you typically have with a stranger. They usually turn into efforts at finding things you have in common,  “Where are you from?”,  “Oh, really, do you know so and so?” Etc. If that doesn’t result in a match we move on to common interests by asking questions like “What do you do?”. &lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;For this event management system to work, it is important that there is a host with a good reputation. The host is responsible for making sure that everything runs smoothly and that there are no assholes. The more a host is respected, the more likely people will be to risk their time attending.&lt;/span&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;vetting-system:658de8c6e6ab357f454b71a330e49edf&#34;&gt;Vetting System&lt;/h3&gt;
+&lt;h3 id=&#34;vetting-system&#34;&gt;Vetting System&lt;/h3&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;In order to ensure that the right people attend, I propose a vetting system. Instead of sending out invitations, the host would share information about the event online. This would be either on social media or with a search engine that is dedicated to the type of event being held. People who are interested in attending would request an invitation. The host would be responsible for choosing the right people. The host could make that decision anyway they see fit. I suspect that a decision would be made based on the following criteria.&lt;/span&gt;&lt;/p&gt;
 
@@ -52,15 +125,15 @@
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;It might go without saying, but the event would be for a specific purpose. It might be to eat a certain type of food that the host makes. It could be to watch a sporting event on television. My favorite is a house party to listen to a local band. Again, the idea is to meet cool people who have similar interests as you. &lt;/span&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;reputation:658de8c6e6ab357f454b71a330e49edf&#34;&gt;Reputation&lt;/h3&gt;
+&lt;h3 id=&#34;reputation&#34;&gt;Reputation&lt;/h3&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;It should be possible for both the host and an attendee to build a reputation.  Everyone involved should be able to rate each other. Not only does it make it easier to get an invitation to another event, it also gives everyone an incentive to behave. If someone makes an ass of themselves at an event, they are less likely to get invited in the future. The person looks bad and it reflects poorly on the host that invited them.&lt;/span&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;assumptions:658de8c6e6ab357f454b71a330e49edf&#34;&gt;Assumptions&lt;/h3&gt;
+&lt;h3 id=&#34;assumptions&#34;&gt;Assumptions&lt;/h3&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;That is the basic idea for how to meet good people online in its raw form. I’ve made several assumptions that need to be tested. The biggest is, do people need help making friends? If so, are they worried about safety? Would a person be willing to request an invitation to a party? Would a host be interested in being choosy about who attends their event? Would attendees actually rate each other? Would an attendee agree to have their rating published for future hosts to see?&lt;/span&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;an-application:658de8c6e6ab357f454b71a330e49edf&#34;&gt;An Application&lt;/h3&gt;
+&lt;h3 id=&#34;an-application&#34;&gt;An Application&lt;/h3&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;The best way to test these assumptions is to actually build a web or mobile application and ask people to start using it. In lean startup language, a minimum viable product needs to be created. This application would allow a host to create and manage an event. A feature would exist to make it easy to publish the details to a social media site. Anyone interested in attending can see the host&amp;#8217;s rating / reputation. The person would click on the shared link to request an invitation. The host could optionally require that information such as a questionnaire be submitted to help with the vetting process.&lt;/span&gt;&lt;/p&gt;
 
@@ -78,31 +151,31 @@
       <guid>http://erikvancraddock.com/2016/03/how-we-meet-people/</guid>
       <description>
 
-&lt;h2 id=&#34;did-facebook-do-us-a-favor:735c674f5ae50a2d4b72d98456cae064&#34;&gt;Did Facebook do us a favor?&lt;/h2&gt;
+&lt;h2 id=&#34;did-facebook-do-us-a-favor&#34;&gt;Did Facebook do us a favor?&lt;/h2&gt;
 
 &lt;p&gt;It’s been said that social media websites, like Facebook, are ruining social interactions. I have always been of the opinion that these websites make it easy to know enough about your friends so that you never need to speak to them again. Usually, when I see a friend we discuss what happened since we saw each other last. That is hardly necessary when you are kept informed in real time of their day to day experiences. On top of that, it’s not unusual to learn that you really don’t have much in common with your friends. Or that honestly, you don’t like them. There is something about an open forum that brings out the worst in people.&lt;/p&gt;
 
 &lt;p&gt;But maybe, social media websites just brought out in the open a problem that we’ve always had but never noticed. Maybe, those friends that we only interact with on Twitter aren’t really our friends. Maybe, that buddy with the radical political opinion just doesn’t have the nerve to bring it up in person. Would that make him any less of a tool? Maybe, Facebook did us a favor.&lt;/p&gt;
 
-&lt;h3 id=&#34;meeting-people-is-hard:735c674f5ae50a2d4b72d98456cae064&#34;&gt;Meeting people is hard&lt;/h3&gt;
+&lt;h3 id=&#34;meeting-people-is-hard&#34;&gt;Meeting people is hard&lt;/h3&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;I am a bit of a homebody. I don’t like to get out that much. Having to smile and politely greet people sounds like a nightmare. It is so rare that I find other human beings that I have something in common with. Although, that could very well be because of how little I get out. The one friend that I actually make an effort to hang out with might be more antisocial than me. I just don’t know how to meet people.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;I believe that it is healthy to socialize with other people. There are plenty of studies that all but prove that an active social life will make you live longer. The problem is that most people I meet are either shallow, temperamental or unreliable, or all of the above. I wonder how I seem to them? What I really need is a way to meet other people in person with similar interests that aren’t assholes. It would be nice if these people were also looking for friends.&lt;/span&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;no-perfect-solutions:735c674f5ae50a2d4b72d98456cae064&#34;&gt;No perfect solutions&lt;/h3&gt;
+&lt;h3 id=&#34;no-perfect-solutions&#34;&gt;No perfect solutions&lt;/h3&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;There are solutions to this problem but none of them completely work for me. There are lots of websites out there specifically designed to help you find that special somebody. I’m not interested in that. I already found my special somebody. I have been married to her for seventeen years. There are no services that I am aware of that help people look for just a normal friend. Probably because that sounds kind of pathetic.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;When you meet a new person it is either because you have a common interest or situation. Depending on where you meet, there may also be certain behaviors that are appropriate. Generally speaking, the places that expect appropriate behaviors are safer than those with fewer expectations of proper etiquette. A lot of the time this means that you don’t really get to know a person as they are. Instead, you get a situationally appropriate version of them.  &lt;/span&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;places-we-meet-people:735c674f5ae50a2d4b72d98456cae064&#34;&gt;Places we meet people&lt;/h3&gt;
+&lt;h3 id=&#34;places-we-meet-people&#34;&gt;Places we meet people&lt;/h3&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Here are a few examples of safe places where people typically meet other people: work, church, school, &lt;a href=&#34;http://yonomitt.com/blog/2016/3/23/meeting-people-is-easy-but-hard&#34; target=&#34;_blank&#34;&gt;conventions&lt;/a&gt;, or an event for their kids such as a baseball game etc. These are all locations where you should probably bring, at most, your rated PG personality. You are less likely to get into a fight at these places although you might watch out for some of those soccer moms.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Other places to meet people might be: parties, bars, clubs or concerts for example. It is probably ok to let your hair down here but these are also some of the riskier locations. It is rare to get a DUI coming home from church, not so much from the bar. Remember, Uber is your friend. Also, don’t expect much stimulating conversation unless you are particularly fascinated with television, fashion, sports or Donald Trump. &lt;/span&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;meeting-people-online-is-creepy:735c674f5ae50a2d4b72d98456cae064&#34;&gt;Meeting people online is creepy&lt;/h3&gt;
+&lt;h3 id=&#34;meeting-people-online-is-creepy&#34;&gt;Meeting people online is creepy&lt;/h3&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;If you are looking for a lively debate, look no further than the Internet. You can find plenty of it online in forums or social media. The Internet has added all kinds of variety when it comes to meeting people. Of all the social networks, Twitter is the only one that I think you can reasonably meet new people. In my experience the others, notably Facebook, are just places where we keep track of the friends we meet in person. &lt;/span&gt;&lt;/p&gt;
 
@@ -110,7 +183,7 @@
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;There are services that combine both the risks of meeting online and meeting in person. Dating sites like eHarmony are probably the safest but as I mentioned before, I don’t want a date. It is also possible to find groups on Craig’s list or sites like meetup.com. The problem is that you don’t know what you are getting into until you get there.&lt;/span&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;what-can-we-do-about-it:735c674f5ae50a2d4b72d98456cae064&#34;&gt;What can we do about it?&lt;/h3&gt;
+&lt;h3 id=&#34;what-can-we-do-about-it&#34;&gt;What can we do about it?&lt;/h3&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;So what is the answer? Is it possible to meet real people, who aren’t putting on a show, without risking boredom, a DUI, or possibly your life?  Surely there must be some safe way to use the Internet to improve the way we meet people in person. I think that this is a problem that is worth solving. &lt;/span&gt;&lt;/p&gt;
 
@@ -200,7 +273,7 @@
 
 &lt;p&gt;Why do some kids lead while others follow? Where do the leaders find the courage to do their own thing? The answer is confidence or even arrogance. At some point the kid took a chance and it paid off. This almost always meant that he learned to fail the right way. Or that she learned to treat a mistake like a setback instead of an excuse to quit. The trick was to find something they wanted so badly that they were willing to risk failure to get it.&lt;/p&gt;
 
-&lt;h2 id=&#34;so-what-should-we-do:d8ed5856c09c4253883ffcd730d33010&#34;&gt;&lt;strong&gt;So what should we do?&lt;/strong&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;so-what-should-we-do&#34;&gt;&lt;strong&gt;So what should we do?&lt;/strong&gt;&lt;/h2&gt;
 
 &lt;p&gt;Learning is easy when it is needed for something awesome. Sometimes it just takes a little push. At our house, we are trying out an experiment. The idea is to always have some kind of creative project in the works. We define creative as something that the project owner considers art. We give each other daily updates as is possible. The updates consist of what you’ve done and what you intend to do next. It’s as simple as that&lt;/p&gt;
 
@@ -511,31 +584,6 @@
 &lt;p&gt;You can live in close proximity to five people that you love most in the world. However, you can have no relationship with any of the other people you’ve met in your life.&lt;/p&gt;
 
 &lt;p&gt;Which would you choose?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Why do people bother spending time with you?</title>
-      <link>http://erikvancraddock.com/2012/05/why-do-people-bother-spending-time-with-you/</link>
-      <pubDate>Wed, 16 May 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://erikvancraddock.com/2012/05/why-do-people-bother-spending-time-with-you/</guid>
-      <description>&lt;p&gt;While reading a blog post about passive income streams, I was presented with the following question: Why do people bother spending time with you? I had to stop and think about this for a little bit. The point of the question is to identify the value that you already bring people. I realize that I don’t really know why people spend time with me. If I think about it, not too many people actually do spend time with me. More accurately, I don’t spend much time with other people.&lt;/p&gt;
-
-&lt;p&gt;However, I do know a lot of people. There are a ton of people that I maintain some level of contact with. As an exercise, I am going to create a spreadsheet full of the names of everyone in my contact list. I am going to list the following:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Last time we did something together&lt;/li&gt;
-&lt;li&gt;What we usually do&lt;/li&gt;
-&lt;li&gt;What value they have for me&lt;/li&gt;
-&lt;li&gt;What value I think I bring to them&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Hopefully, I will find a trend. I am not necessarily concerned about finding any possible business opportunities. I am only passively interested in passive income streams. (Sorry couldn’t help myself) If doing this enlightened me on one of them I wouldn’t be upset. This does seem like a good way to evaluate my perception of the relationships that I have with other people. I think this will end up becoming a “How big of an asshole am I?” test. I fully expect to realize that I am a big one.&lt;/p&gt;
-
-&lt;p&gt;It would be very helpful if some of you would help me with the value part. Other than the fact that I am just so pleasant to be around, what do you get out of knowing me? The more selfish your reason the more I want to know. If you want I’ll assume that the main reason is simply friendship but I am interested in hearing any of the secondary reasons. I’ll make you a deal, if you send me an answer I will reply honestly with the value I expect to receive from you. I&amp;#8217;ll only do that if you request it. You may not want to know 🙂&lt;/p&gt;
-
-&lt;p&gt;If you feel more comfortable, send your reply via email at erik@craddock.org&lt;/p&gt;
 </description>
     </item>
     
