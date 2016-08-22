@@ -1,0 +1,673 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <title>How I Replaced Google Reader with Pinboard &middot; ERIK.VAN.CRADDOCK</title>
+    <meta name="generator" content="Hugo 0.16" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="author" content="Erik Craddock">
+    
+      <meta name="description" content="">
+    
+    
+    <link rel="icon" href="http://erikvancraddock.com/favicon.ico">
+    <link rel="apple-touch-icon" href="http://erikvancraddock.com/apple-touch-icon.png" />
+    <link rel="stylesheet" href="http://erikvancraddock.com/css/style.css">
+    <link rel="stylesheet" href="http://erikvancraddock.com/css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://erikvancraddock.com/css/monokai.css">
+    <link rel="stylesheet" href="http://erikvancraddock.com/fancybox/jquery.fancybox.css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,600' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Source+Code+Pro' rel='stylesheet' type='text/css'>
+    <meta property="og:title" content="How I Replaced Google Reader with Pinboard" />
+<meta property="og:description" content="It’s been in the wind for a while. Fewer websites are explicitly offering RSS links. Instead they promote their content on social media sites like Twitter, Facebook and Google&#43;. I only clung to RSS feeds this long because of the strength of Google Reader. I used it constantly. It was my primary link to the Internet. I was subscribed to about 50 different feeds grouped up into about 10 different folders." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://erikvancraddock.com/2013/04/19/how-i-replaced-google-reader-with-pinboard/" />
+
+
+<meta property="og:updated_time" content="2013-04-19T00:00:00&#43;00:00"/>
+
+
+
+
+
+
+
+
+
+
+    
+    
+<meta itemprop="name" content="How I Replaced Google Reader with Pinboard">
+<meta itemprop="description" content="It’s been in the wind for a while. Fewer websites are explicitly offering RSS links. Instead they promote their content on social media sites like Twitter, Facebook and Google&#43;. I only clung to RSS feeds this long because of the strength of Google Reader. I used it constantly. It was my primary link to the Internet. I was subscribed to about 50 different feeds grouped up into about 10 different folders.">
+
+
+<meta itemprop="dateModified" content="2013-04-19T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="803">
+
+
+
+<meta itemprop="keywords" content="book-review,family,ideas,music,productivity,work,2016,chrome,goals,goread,gtd,ideas,in-person,internet,lean-startup,meet-people,mvp,original-song,plan,plans,pocket,productivity,social-media," />
+
+    
+
+  <meta name="twitter:card" content="summary"/>
+
+
+
+<meta name="twitter:title" content="How I Replaced Google Reader with Pinboard"/>
+<meta name="twitter:description" content="It’s been in the wind for a while. Fewer websites are explicitly offering RSS links. Instead they promote their content on social media sites like Twitter, Facebook and Google&#43;. I only clung to RSS feeds this long because of the strength of Google Reader. I used it constantly. It was my primary link to the Internet. I was subscribed to about 50 different feeds grouped up into about 10 different folders."/>
+<meta name="twitter:site" content="@evcraddock"/>
+
+
+    
+
+    
+</head>
+<body>
+<div class="container">
+
+
+<div id="container">
+	<header id="header">
+  <div id="header-main" class="header-inner" >
+    <div class="outer">
+    
+      <a href="http://erikvancraddock.com/" id="logo"><span class="site-title">ERIK.VAN.CRADDOCK</span></a>
+      <nav id="main-nav">
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+
+          
+
+          
+          
+          <a class="main-nav-link" href="http://erikvancraddock.com/categories/family">Family</a>
+          
+          
+          
+          <a class="main-nav-link" href="http://erikvancraddock.com/categories/ideas">Ideas</a>
+          
+          
+          
+          <a class="main-nav-link" href="http://erikvancraddock.com/categories/work">Work</a>
+          
+          
+          
+          <a class="main-nav-link" href="http://erikvann.com/">Music</a>
+          
+          
+          
+          <a class="main-nav-link" href="http://erikvancraddock.com/what-im-reading">What I&#39;m Reading</a>
+          
+          
+      </nav>
+        <nav id="sub-nav">
+          <div class="profile" id="profile-nav">
+            <a id="profile-anchor" href="javascript:;"><img class="avatar" src="http://erikvancraddock.com/css/images/avatar.jpg"><i class="fa fa-caret-down"></i></a>
+          </div>
+        </nav>
+        <div id="search-form-wrap">
+          <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form">
+              <input type="search" name="q" results="0" class="search-form-input" placeholder="Search">
+              <button type="submit" class="search-form-submit">
+              </button>
+              <input type="hidden" name="q" value="site:http://erikvancraddock.com/">
+         </form>
+        </div>
+    </div>
+  </div>
+  <div id="main-nav-mobile" class="header-sub header-inner">
+    <table class="menu outer">
+      <tbody>
+          <tr>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+
+          
+
+          
+          
+          <td><a class="main-nav-link" href="http://erikvancraddock.com/categories/family">Family</a></td>
+          
+          
+          
+          <td><a class="main-nav-link" href="http://erikvancraddock.com/categories/ideas">Ideas</a></td>
+          
+          
+          
+          <td><a class="main-nav-link" href="http://erikvancraddock.com/categories/work">Work</a></td>
+          
+          
+          
+          <td><a class="main-nav-link" href="http://erikvann.com/">Music</a></td>
+          
+          
+          
+          <td><a class="main-nav-link" href="http://erikvancraddock.com/what-im-reading">What I&#39;m Reading</a></td>
+          
+          
+          <td>
+          <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form">
+          <input type="search" name="q" results="0" class="search-form-input" placeholder="Search">
+          <input type="hidden" name="q" value="site:http://erikvancraddock.com/">
+          </form>
+        </td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+</header>
+
+   	
+   	<div class="outer">
+   		
+	    <aside id="profile">
+  <div class="inner profile-inner">
+    <div class="base-info profile-block">
+      <img id="avatar" src="http://erikvancraddock.com/css/images/avatar.jpg">
+      <a href="/aboutme">
+          <h2 id="name">Erik Craddock</h2>
+      </a>
+      <h3 id="title">Musician, Programmer, Troublemaker</h3>
+      <span id="location"><i class="fa fa-map-marker"></i>Mustang, Oklahoma</span>
+      
+    </div>
+    
+    <div class="contact-info profile-block">
+      <table class="contact-list">
+        <tr>
+          
+<td><a href="//github.com/evcraddock" target="_blank" title="GitHub"><i class="fa fa-github"></i></a></td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<td><a href="//instagram.com/evcraddock" target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a></td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<td><a href="//pinterest.com/evcraddock" target="_blank" title="Pinterest"><i class="fa fa-pinterest"></i></a></td>
+
+
+
+
+
+<td><a href="//facebook.com/evcraddock" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></td>
+
+
+
+<td><a href="//twitter.com/evcraddock" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></td>
+
+
+          <td><a href="" target="_blank" title="RSS"><i class="fa fa-rss"></i></a></td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</aside>
+
+	    
+
+	    
+<section id="main" class="full-width">
+    <article id="page-undefined" class="article article-type-page" itemscope="" itemprop="blogPost">
+        <div class="article-inner">
+            
+                
+                <img src="http://erikvancraddock.com//images/pinboard_in_blue.png" class="article-banner">
+                
+            
+
+            <header class="article-header">
+    <a href="http://erikvancraddock.com/2013/04/19/how-i-replaced-google-reader-with-pinboard/">
+    <h1 class="article-title" itemprop="name">
+        How I Replaced Google Reader with Pinboard
+    </h1>
+    </a>
+    <div class="article-meta">
+        <div class="article-date">
+            <i class="fa fa-calendar"></i>
+            <time datetime="2013-04-19 00:00:00 &#43;0000 UTC" itemprop="datePublished">2013-04-19</time>
+            &middot;
+            803
+            words
+            &middot;
+            4
+            minute read
+        </div>
+
+        
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-folder"></i>
+                
+                <a class="article-category-link" href="http://erikvancraddock.com/categories/work">Work</a>
+                
+                
+            </div>
+            
+        
+
+    </div>
+</header>
+
+            <div class="article-entry" itemprop="articleBody">
+                <p>It’s been in the wind for a while. Fewer websites are explicitly offering RSS links. Instead they promote their content on social media sites like Twitter, Facebook and Google+. I only clung to RSS feeds this long because of the strength of Google Reader. I used it constantly. It was my primary link to the Internet. I was subscribed to about 50 different feeds grouped up into about 10 different folders. It has worked out pretty well for about 4 or 5 years, so of course Google decided to shut Reader down.</p>
+
+<p>Like the rest of the Internet, I immediately began looking for a replacement. At first I concentrated on other RSS feed readers. None of them compared to Reader. I admit to a little Google cursing. If you have the best product in a market, why in God’s name would you shut it down? But like it or not, it is going away. So I did what any self respecting nerd with a mild case of OCD would do. I made a list. The solution to this problem would require that the following criteria be met.</p>
+
+<p><li dir="ltr">
+  The ability to save links to a read later list
+</li>
+<li dir="ltr">
+  A disconnection between content discovery and link storage
+</li>
+<li dir="ltr">
+  A way to subscribe to desirable content providers
+</li>
+<li dir="ltr">
+  A way to group up content sources by category
+</li>
+<li dir="ltr">
+  The ability to clear out content I’ve already viewed
+</li>
+<li dir="ltr">
+  The solution should be portable and fast
+</li></p>
+
+<p dir="ltr">
+  There are many ways to implement a read it later system. I decided to create my own system using a combination of Twitter, Tweetdeck and Pinboard. Each service fulfils a specific purpose and could be replaced by several similar applications available on the Interwebs. Twitter functions as a news subscription service. Tweetdeck is used for reviewing potentially interesting content. Pinboard is the final destination where selected content is kept for consumption. Here is how it works.
+</p>
+
+<h4 dir="ltr">
+  Twitter
+</h4>
+
+<p dir="ltr">
+  Set up a Twitter List for every topic that you are interested in. Keep your topics specific. Most content providers post notifications about new content to their Twitter account. Some popular bloggers have Twitter accounts that only link new content. These are the best for our purposes. Add people to lists who post about the appropriate topic. Add as few accounts to your lists as possible. The more tweets you have to go through the less likely you will be to review them all.
+</p>
+
+<h4 dir="ltr">
+  TweetDeck
+</h4>
+
+<p dir="ltr">
+  TweetDeck is a social media account aggregator owned by Twitter. It allows you to manage multiple social media accounts. You can add columns (feeds) which can all be viewed simultaneously. Add a column for each of your Twitter lists. As you have time review each of the lists searching for links that you are interested in reading. I typically perform this function two or three times a day (morning, lunch and evening). As you find interesting content bookmark the link to your favorite read it later application. I use Pinboard. When you have review all of the Tweets in a list be sure to clear it out. You can do this by clicking the edit icon at the top right of each column and pressing the Clear Column button.
+</p>
+
+<h4 dir="ltr">
+  Pinboard
+</h4>
+
+<p dir="ltr">
+  Pinboard is a full featured bookmarking application. It supports tags, sets and notes. You can share your bookmarks or keep them private. There are extensions and bookmarklets for all the major browsers. Bookmarklets make it simple to tag links. Pinboard also has Read It Later functionality. This allows you to get a list of all unread links. As you review your Twitter Lists, you will add new links to Pinboard. I use the Pinboard read later bookmarklet with Google Chrome. When you are ready to read articles that you have tagged, choose the UnRead list in Pinboard. You can open up each link to a new tab or preview each link using the Organize function.
+</p>
+
+<p>Of course the Read Later bookmarklet allows you to save any link that you come across on the Internet. You can also discover new content from directly inside Pinboard by viewing popular links. Following other Pinboard users is also a good content discovery option.</p>
+
+<h4 dir="ltr">
+  Wrapping things up
+</h4>
+
+<p dir="ltr">
+  It might seem like a lot of trouble to maintain lists of links for later reading. But the truth is that there is a never ending stream of new content being published to the Internet. No one has time consume it all. Visiting every website that we want to follow everyday is a time sink. Reading articles as the people you follow share them would consume your entire life. In the end spending a little time collecting links saves a lot of time later. It is less likely that you will miss interesting content. It also ensures that you will always have something to read when you are ready.
+</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+            </div>
+            <footer class="article-footer">
+
+        
+        
+    <a data-url="http://erikvancraddock.com/2013/04/19/how-i-replaced-google-reader-with-pinboard/" data-id="44e1d786f2ef6b15a711b35659323de5" class="article-share-link">
+        Share
+    </a>
+    
+</footer>
+
+        </div>
+
+        
+<nav id="article-nav">
+    
+    <a href="http://erikvancraddock.com/2013/03/28/whining-crying-and-belly-aching/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">
+          &gt;&gt;
+      </strong>
+      <div class="article-nav-title">Whining, Crying and Belly Aching</div>
+    </a>
+    
+
+    
+    <a href="http://erikvancraddock.com/2013/05/23/communication-issues/" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">
+          &lt;&lt;
+      </strong>
+      <div class="article-nav-title">Communication Issues</div>
+    </a>
+    
+</nav>
+
+
+    </article>
+
+    
+    <section id="comments">
+        <div id="disqus_thread">
+            
+        </div>
+    </section>
+    
+</section>
+
+
+	    
+	    <aside id="sidebar">
+    
+<div class="widget-wrap">
+    <h3 class="widget-title">
+        Recents
+    </h3>
+    
+        <ul id="recent-post">
+            
+            <li>
+                
+                <div class="item-inner">
+                    
+                    <p class="item-category">
+                        <a class="article-category-link" href="http://erikvancraddock.com/categories/ideas">
+                        ideas
+                        </a>
+                    </p>
+                    
+                    <p class="item-title"><a href="http://erikvancraddock.com/2016/06/29/how-i-consume-the-internet/" class="title">How I consume the Internet</a></p>
+                    <p class="item-date">
+                        <time datetime="2016-06-29 00:00:00 &#43;0000 UTC" itemprop="datePublished">2016-06-29</time>
+                    </p>
+                </div>
+            </li>
+            
+            <li>
+                
+                <div class="item-inner">
+                    
+                    <p class="item-category">
+                        <a class="article-category-link" href="http://erikvancraddock.com/categories/work">
+                        Work
+                        </a>
+                    </p>
+                    
+                    <p class="item-title"><a href="http://erikvancraddock.com/2016/05/02/dont-automate-life/" class="title">Don’t automate your life</a></p>
+                    <p class="item-date">
+                        <time datetime="2016-05-02 00:00:00 &#43;0000 UTC" itemprop="datePublished">2016-05-02</time>
+                    </p>
+                </div>
+            </li>
+            
+            <li>
+                
+                <div class="item-inner">
+                    
+                    <p class="item-category">
+                        <a class="article-category-link" href="http://erikvancraddock.com/categories/ideas">
+                        Ideas
+                        </a>
+                    </p>
+                    
+                    <p class="item-title"><a href="http://erikvancraddock.com/2016/04/10/meet-good-people-online/" class="title">Meet Good People Online</a></p>
+                    <p class="item-date">
+                        <time datetime="2016-04-10 00:00:00 &#43;0000 UTC" itemprop="datePublished">2016-04-10</time>
+                    </p>
+                </div>
+            </li>
+            
+            <li>
+                
+                <div class="item-inner">
+                    
+                    <p class="item-category">
+                        <a class="article-category-link" href="http://erikvancraddock.com/categories/ideas">
+                        Ideas
+                        </a>
+                    </p>
+                    
+                    <p class="item-title"><a href="http://erikvancraddock.com/2016/03/12/how-we-meet-people/" class="title">How We Meet People</a></p>
+                    <p class="item-date">
+                        <time datetime="2016-03-12 00:00:00 &#43;0000 UTC" itemprop="datePublished">2016-03-12</time>
+                    </p>
+                </div>
+            </li>
+            
+            <li>
+                
+                <div class="item-inner">
+                    
+                    <p class="item-category">
+                        <a class="article-category-link" href="http://erikvancraddock.com/categories/ideas">
+                        Ideas
+                        </a>
+                    </p>
+                    
+                    <p class="item-title"><a href="http://erikvancraddock.com/2016/02/28/plan-to-succeed/" class="title">Plan to Succeed</a></p>
+                    <p class="item-date">
+                        <time datetime="2016-02-28 00:00:00 &#43;0000 UTC" itemprop="datePublished">2016-02-28</time>
+                    </p>
+                </div>
+            </li>
+            
+        </ul>
+   
+</div>
+
+
+    
+
+
+<div class="widget-wrap">
+    <h3 class="widget-title">Categories</h3>
+    <div class="widget">
+        <ul class="category-list">
+            
+            <li class="category-list-item">
+                <a class="category-list-link" href="http://erikvancraddock.com/categories/book-review">
+                    book-review
+                </a>
+                <span class="category-list-count">5</span>
+            </li>
+            
+            <li class="category-list-item">
+                <a class="category-list-link" href="http://erikvancraddock.com/categories/family">
+                    family
+                </a>
+                <span class="category-list-count">23</span>
+            </li>
+            
+            <li class="category-list-item">
+                <a class="category-list-link" href="http://erikvancraddock.com/categories/ideas">
+                    ideas
+                </a>
+                <span class="category-list-count">24</span>
+            </li>
+            
+            <li class="category-list-item">
+                <a class="category-list-link" href="http://erikvancraddock.com/categories/music">
+                    music
+                </a>
+                <span class="category-list-count">10</span>
+            </li>
+            
+            <li class="category-list-item">
+                <a class="category-list-link" href="http://erikvancraddock.com/categories/productivity">
+                    productivity
+                </a>
+                <span class="category-list-count">6</span>
+            </li>
+            
+            <li class="category-list-item">
+                <a class="category-list-link" href="http://erikvancraddock.com/categories/work">
+                    work
+                </a>
+                <span class="category-list-count">9</span>
+            </li>
+            
+        </ul>
+    </div>
+</div>
+
+
+
+    
+    
+
+
+<div class="widget-wrap">
+    <h3 class="widget-title">
+        Tag cloud
+    </h3>
+    <div class="widget tagcloud">
+        
+        <a href="http://erikvancraddock.com/tags/2016" style="font-size: 12px;">2016</a>
+        
+        <a href="http://erikvancraddock.com/tags/chrome" style="font-size: 12px;">chrome</a>
+        
+        <a href="http://erikvancraddock.com/tags/goals" style="font-size: 12px;">goals</a>
+        
+        <a href="http://erikvancraddock.com/tags/goread" style="font-size: 12px;">goread</a>
+        
+        <a href="http://erikvancraddock.com/tags/gtd" style="font-size: 12px;">gtd</a>
+        
+        <a href="http://erikvancraddock.com/tags/ideas" style="font-size: 12px;">ideas</a>
+        
+        <a href="http://erikvancraddock.com/tags/in-person" style="font-size: 12px;">in-person</a>
+        
+        <a href="http://erikvancraddock.com/tags/internet" style="font-size: 12px;">internet</a>
+        
+        <a href="http://erikvancraddock.com/tags/lean-startup" style="font-size: 12px;">lean-startup</a>
+        
+        <a href="http://erikvancraddock.com/tags/meet-people" style="font-size: 12px;">meet-people</a>
+        
+        <a href="http://erikvancraddock.com/tags/mvp" style="font-size: 12px;">mvp</a>
+        
+        <a href="http://erikvancraddock.com/tags/original-song" style="font-size: 12px;">original-song</a>
+        
+        <a href="http://erikvancraddock.com/tags/plan" style="font-size: 12px;">plan</a>
+        
+        <a href="http://erikvancraddock.com/tags/plans" style="font-size: 12px;">plans</a>
+        
+        <a href="http://erikvancraddock.com/tags/pocket" style="font-size: 12px;">pocket</a>
+        
+        <a href="http://erikvancraddock.com/tags/productivity" style="font-size: 12px;">productivity</a>
+        
+        <a href="http://erikvancraddock.com/tags/social-media" style="font-size: 12px;">social-media</a>
+        
+    </div>
+</div>
+
+
+
+
+    <div id="toTop" class="fa fa-chevron-up"></div>
+</aside>
+
+	    
+	</div>
+</div>
+
+<footer id="footer">
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      &copy; 2016
+      Erik Craddock
+    </div>
+  </div>
+</footer>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-17539024-2', 'auto');
+ga('send', 'pageview');
+</script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="http://erikvancraddock.com/fancybox/jquery.fancybox.pack.js"></script>
+<script src="http://erikvancraddock.com/js/script.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.8.0/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+<!-- MathJax -->
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']]}
+  });
+</script>
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+</body>
+</html>
