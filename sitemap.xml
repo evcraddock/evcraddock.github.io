@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://erikvancraddock.com/</loc>
-    <lastmod>2017-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://erikvancraddock.com/2017/02/05/how-to-beat-burnout</loc>
+    <loc>http://erikvancraddock.com/2017/02/how-to-beat-burnout/</loc>
     <lastmod>2017-02-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -37,7 +33,7 @@
   </url>
   
   <url>
-    <loc>http://erikvancraddock.com/2016/02/28/plan-to-succeed/</loc>
+    <loc>http://erikvancraddock.com/2016/02/plan-to-succeed/</loc>
     <lastmod>2016-02-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -339,6 +335,186 @@
   <url>
     <loc>http://erikvancraddock.com/2009/03/20/why-am-i-doing-this-again/</loc>
     <lastmod>2009-03-20T14:13:33-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/tags/2016/</loc>
+    <lastmod>2016-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/categories/book-review/</loc>
+    <lastmod>2013-08-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/tags/burnout/</loc>
+    <lastmod>2017-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/categories/</loc>
+    <lastmod>2013-08-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/tags/chrome/</loc>
+    <lastmod>2016-06-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/</loc>
+    <lastmod>2017-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/categories/family/</loc>
+    <lastmod>2015-11-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/tags/goals/</loc>
+    <lastmod>2016-01-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/tags/goread/</loc>
+    <lastmod>2016-06-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/tags/gtd/</loc>
+    <lastmod>2013-08-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/categories/ideas/</loc>
+    <lastmod>2016-06-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/tags/ideas/</loc>
+    <lastmod>2016-05-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/tags/in-person/</loc>
+    <lastmod>2016-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/tags/internet/</loc>
+    <lastmod>2016-06-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/tags/lean-startup/</loc>
+    <lastmod>2016-04-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/tags/meet-people/</loc>
+    <lastmod>2016-04-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/categories/music/</loc>
+    <lastmod>2013-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/tags/mvp/</loc>
+    <lastmod>2016-04-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/tags/original-song/</loc>
+    <lastmod>2013-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/page/</loc>
+    <lastmod>2016-05-15T10:24:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/tags/plan/</loc>
+    <lastmod>2016-02-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/tags/plans/</loc>
+    <lastmod>2016-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/tags/pocket/</loc>
+    <lastmod>2016-06-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/post/</loc>
+    <lastmod>2017-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/categories/productivity/</loc>
+    <lastmod>2017-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/tags/productivity/</loc>
+    <lastmod>2016-05-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/tags/social-media/</loc>
+    <lastmod>2016-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/tags/</loc>
+    <lastmod>2016-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/categories/work/</loc>
+    <lastmod>2017-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/tags/work/</loc>
+    <lastmod>2017-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

@@ -7,7 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 May 2016 10:24:42 -0500</lastBuildDate>
-    <atom:link href="http://erikvancraddock.com/page/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://erikvancraddock.com/page/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>What I&#39;m Reading</title>
@@ -15,24 +17,10 @@
       <pubDate>Sun, 15 May 2016 10:24:42 -0500</pubDate>
       
       <guid>http://erikvancraddock.com/what-im-reading/</guid>
-      <description>
-
-&lt;p&gt;I love to read.  I read so much that sometimes I worry about how healthy it might be. When I am in need of a good book I ask my friends. So it is only fair that I also recommend the books that I enjoy.&lt;/p&gt;
-
-&lt;script async defer src=&#34;//assets.pinterest.com/js/pinit.js&#34;&gt;&lt;/script&gt;
-
-&lt;h3 id=&#34;currently-reading&#34;&gt;Currently Reading&lt;/h3&gt;
-
-&lt;p&gt;&lt;a data-pin-do=&#34;embedBoard&#34; data-pin-board-width=&#34;600&#34; data-pin-scale-height=&#34;140&#34; data-pin-scale-width=&#34;100&#34; href=&#34;https://www.pinterest.com/evcraddock/currently-reading/&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;most-recent-books-i-ve-read&#34;&gt;Most Recent Books I&amp;rsquo;ve Read&lt;/h3&gt;
-
-&lt;p&gt;&lt;a data-pin-do=&#34;embedBoard&#34; data-pin-board-width=&#34;600&#34; data-pin-scale-height=&#34;400&#34; data-pin-scale-width=&#34;100&#34; href=&#34;https://www.pinterest.com/evcraddock/recently-read-books/&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;my-favorite-books&#34;&gt;My Favorite Books&lt;/h3&gt;
-
-&lt;p&gt;&lt;a data-pin-do=&#34;embedBoard&#34; data-pin-board-width=&#34;600&#34; data-pin-scale-height=&#34;400&#34; data-pin-scale-width=&#34;100&#34; href=&#34;https://www.pinterest.com/evcraddock/books-worth-reading/&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>I love to read. I read so much that sometimes I worry about how healthy it might be. When I am in need of a good book I ask my friends. So it is only fair that I also recommend the books that I enjoy.
+ Currently Reading 
+Most Recent Books I&amp;rsquo;ve Read 
+My Favorite Books</description>
     </item>
     
     <item>
@@ -41,14 +29,9 @@
       <pubDate>Wed, 08 Dec 2010 00:00:00 +0000</pubDate>
       
       <guid>http://erikvancraddock.com/aboutme/</guid>
-      <description>&lt;p&gt;I am a musician, writer and software developer not necessarily in that order depending on the day. This website serves as a sort of haphazard living autobiography.&lt;/p&gt;
-
-&lt;p&gt;I would like to state that it is written for an audience of one, me, but that would be a lie. I suffer just enough from megalomania to believe that others might be interested in my ramblings.&lt;/p&gt;
-
-&lt;p&gt;Practically speaking this website is a platform for documenting my ever evolving interests, ideas and life experiences.&lt;/p&gt;
-
-&lt;p&gt;Erik Craddock&lt;/p&gt;
-</description>
+      <description>I am a musician, writer and software developer not necessarily in that order depending on the day. This website serves as a sort of haphazard living autobiography.
+I would like to state that it is written for an audience of one, me, but that would be a lie. I suffer just enough from megalomania to believe that others might be interested in my ramblings.
+Practically speaking this website is a platform for documenting my ever evolving interests, ideas and life experiences.</description>
     </item>
     
   </channel>
