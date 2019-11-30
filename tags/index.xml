@@ -6,22 +6,31 @@
     <description>Recent content in Tags on ERIK.VAN.CRADDOCK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://erikvancraddock.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>2016</title>
-      <link>http://erikvancraddock.com/tags/2016/</link>
-      <pubDate>Sun, 03 Jan 2016 00:00:00 +0000</pubDate>
+      <title>music</title>
+      <link>http://erikvancraddock.com/tags/music/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://erikvancraddock.com/tags/2016/</guid>
+      <guid>http://erikvancraddock.com/tags/music/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Burnout</title>
+      <title>Professionals</title>
+      <link>http://erikvancraddock.com/tags/professionals/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikvancraddock.com/tags/professionals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>burnout</title>
       <link>http://erikvancraddock.com/tags/burnout/</link>
       <pubDate>Sun, 05 Feb 2017 00:00:00 +0000</pubDate>
       
@@ -39,47 +48,11 @@
     </item>
     
     <item>
-      <title>Goals</title>
-      <link>http://erikvancraddock.com/tags/goals/</link>
-      <pubDate>Mon, 25 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://erikvancraddock.com/tags/goals/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Goread</title>
+      <title>GoRead</title>
       <link>http://erikvancraddock.com/tags/goread/</link>
       <pubDate>Wed, 29 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>http://erikvancraddock.com/tags/goread/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gtd</title>
-      <link>http://erikvancraddock.com/tags/gtd/</link>
-      <pubDate>Sun, 25 Aug 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://erikvancraddock.com/tags/gtd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ideas</title>
-      <link>http://erikvancraddock.com/tags/ideas/</link>
-      <pubDate>Mon, 02 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://erikvancraddock.com/tags/ideas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>In Person</title>
-      <link>http://erikvancraddock.com/tags/in-person/</link>
-      <pubDate>Sat, 12 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://erikvancraddock.com/tags/in-person/</guid>
       <description></description>
     </item>
     
@@ -93,65 +66,20 @@
     </item>
     
     <item>
-      <title>Lean Startup</title>
-      <link>http://erikvancraddock.com/tags/lean-startup/</link>
-      <pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://erikvancraddock.com/tags/lean-startup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Meet People</title>
-      <link>http://erikvancraddock.com/tags/meet-people/</link>
-      <pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://erikvancraddock.com/tags/meet-people/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mvp</title>
-      <link>http://erikvancraddock.com/tags/mvp/</link>
-      <pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://erikvancraddock.com/tags/mvp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Original Song</title>
-      <link>http://erikvancraddock.com/tags/original-song/</link>
-      <pubDate>Wed, 13 Feb 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://erikvancraddock.com/tags/original-song/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Plan</title>
-      <link>http://erikvancraddock.com/tags/plan/</link>
-      <pubDate>Sun, 28 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://erikvancraddock.com/tags/plan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Plans</title>
-      <link>http://erikvancraddock.com/tags/plans/</link>
-      <pubDate>Sun, 03 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://erikvancraddock.com/tags/plans/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Pocket</title>
       <link>http://erikvancraddock.com/tags/pocket/</link>
       <pubDate>Wed, 29 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>http://erikvancraddock.com/tags/pocket/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ideas</title>
+      <link>http://erikvancraddock.com/tags/ideas/</link>
+      <pubDate>Mon, 02 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikvancraddock.com/tags/ideas/</guid>
       <description></description>
     </item>
     
@@ -165,7 +93,43 @@
     </item>
     
     <item>
-      <title>Social Media</title>
+      <title>lean startup</title>
+      <link>http://erikvancraddock.com/tags/lean-startup/</link>
+      <pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikvancraddock.com/tags/lean-startup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meet people</title>
+      <link>http://erikvancraddock.com/tags/meet-people/</link>
+      <pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikvancraddock.com/tags/meet-people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mvp</title>
+      <link>http://erikvancraddock.com/tags/mvp/</link>
+      <pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikvancraddock.com/tags/mvp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>in person</title>
+      <link>http://erikvancraddock.com/tags/in-person/</link>
+      <pubDate>Sat, 12 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikvancraddock.com/tags/in-person/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social media</title>
       <link>http://erikvancraddock.com/tags/social-media/</link>
       <pubDate>Sat, 12 Mar 2016 00:00:00 +0000</pubDate>
       
@@ -174,11 +138,56 @@
     </item>
     
     <item>
-      <title>Work</title>
-      <link>http://erikvancraddock.com/tags/work/</link>
-      <pubDate>Sun, 05 Feb 2017 00:00:00 +0000</pubDate>
+      <title>plan</title>
+      <link>http://erikvancraddock.com/tags/plan/</link>
+      <pubDate>Sun, 28 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://erikvancraddock.com/tags/work/</guid>
+      <guid>http://erikvancraddock.com/tags/plan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Goals</title>
+      <link>http://erikvancraddock.com/tags/goals/</link>
+      <pubDate>Mon, 25 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikvancraddock.com/tags/goals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2016</title>
+      <link>http://erikvancraddock.com/tags/2016/</link>
+      <pubDate>Sun, 03 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikvancraddock.com/tags/2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plans</title>
+      <link>http://erikvancraddock.com/tags/plans/</link>
+      <pubDate>Sun, 03 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikvancraddock.com/tags/plans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GTD</title>
+      <link>http://erikvancraddock.com/tags/gtd/</link>
+      <pubDate>Sun, 25 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikvancraddock.com/tags/gtd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Original Song</title>
+      <link>http://erikvancraddock.com/tags/original-song/</link>
+      <pubDate>Wed, 13 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikvancraddock.com/tags/original-song/</guid>
       <description></description>
     </item>
     

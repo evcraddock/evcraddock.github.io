@@ -6,44 +6,26 @@
     <description>Recent content in Categories on ERIK.VAN.CRADDOCK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Aug 2013 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://erikvancraddock.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Book Review</title>
-      <link>http://erikvancraddock.com/categories/book-review/</link>
-      <pubDate>Sun, 25 Aug 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://erikvancraddock.com/categories/book-review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Family</title>
-      <link>http://erikvancraddock.com/categories/family/</link>
-      <pubDate>Wed, 18 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://erikvancraddock.com/categories/family/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ideas</title>
       <link>http://erikvancraddock.com/categories/ideas/</link>
-      <pubDate>Wed, 29 Jun 2016 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>http://erikvancraddock.com/categories/ideas/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Music</title>
-      <link>http://erikvancraddock.com/categories/music/</link>
-      <pubDate>Wed, 13 Feb 2013 00:00:00 +0000</pubDate>
+      <title>Work</title>
+      <link>http://erikvancraddock.com/categories/work/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://erikvancraddock.com/categories/music/</guid>
+      <guid>http://erikvancraddock.com/categories/work/</guid>
       <description></description>
     </item>
     
@@ -57,11 +39,29 @@
     </item>
     
     <item>
-      <title>Work</title>
-      <link>http://erikvancraddock.com/categories/work/</link>
-      <pubDate>Sun, 05 Feb 2017 00:00:00 +0000</pubDate>
+      <title>Family</title>
+      <link>http://erikvancraddock.com/categories/family/</link>
+      <pubDate>Wed, 18 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://erikvancraddock.com/categories/work/</guid>
+      <guid>http://erikvancraddock.com/categories/family/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book Review</title>
+      <link>http://erikvancraddock.com/categories/book-review/</link>
+      <pubDate>Sun, 25 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikvancraddock.com/categories/book-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>http://erikvancraddock.com/categories/music/</link>
+      <pubDate>Wed, 13 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikvancraddock.com/categories/music/</guid>
       <description></description>
     </item>
     
