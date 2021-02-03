@@ -1,6 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://erikvancraddock.com/categories/</loc>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/</loc>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/2021/02/good-ideas/</loc>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/tags/how-to/</loc>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/categories/ideas/</loc>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/post/</loc>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://erikvancraddock.com/tags/</loc>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+  </url>
   
   <url>
     <loc>http://erikvancraddock.com/2019/01/gluttony-music/</loc>
@@ -8,32 +43,7 @@
   </url>
   
   <url>
-    <loc>http://erikvancraddock.com/categories/</loc>
-    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://erikvancraddock.com/</loc>
-    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://erikvancraddock.com/categories/ideas/</loc>
-    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://erikvancraddock.com/tags/music/</loc>
-    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://erikvancraddock.com/post/</loc>
-    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://erikvancraddock.com/tags/</loc>
     <lastmod>2019-01-31T00:00:00+00:00</lastmod>
   </url>
   

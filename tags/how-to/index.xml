@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>how-to on ERIK.VAN.CRADDOCK</title>
+    <link>http://erikvancraddock.com/tags/how-to/</link>
+    <description>Recent content in how-to on ERIK.VAN.CRADDOCK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://erikvancraddock.com/tags/how-to/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to find good ideas</title>
+      <link>http://erikvancraddock.com/2021/02/good-ideas/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikvancraddock.com/2021/02/good-ideas/</guid>
+      <description>For several years, I wrote articles for this blog regularly. I never had a particular subject that I focused on. I never considered writing as something serious. I just wanted to be a better writer, and the best way to learn to write is to write.
+What I actually learned is that I enjoy writing and dread it at the same time. I always got stuck on what to write. What do I have to say that is worth reading?</description>
+    </item>
+    
+  </channel>
+</rss>

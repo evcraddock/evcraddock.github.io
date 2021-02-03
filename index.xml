@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ERIK.VAN.CRADDOCK</title>
@@ -6,10 +6,20 @@
     <description>Recent content on ERIK.VAN.CRADDOCK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://erikvancraddock.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to find good ideas</title>
+      <link>http://erikvancraddock.com/2021/02/good-ideas/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikvancraddock.com/2021/02/good-ideas/</guid>
+      <description>For several years, I wrote articles for this blog regularly. I never had a particular subject that I focused on. I never considered writing as something serious. I just wanted to be a better writer, and the best way to learn to write is to write.
+What I actually learned is that I enjoy writing and dread it at the same time. I always got stuck on what to write. What do I have to say that is worth reading?</description>
+    </item>
     
     <item>
       <title>A Gluttonous Amount of Music</title>
@@ -35,8 +45,8 @@
       <pubDate>Sun, 05 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>http://erikvancraddock.com/2017/02/how-to-beat-burnout/</guid>
-      <description>For the past few months, I haven&amp;rsquo;t felt like writing. I haven&amp;rsquo;t felt like working on anything really. It has been impossible to motivate myself. The resistence has kicked my ass. I&amp;rsquo;ve been burned out. I actually started writing this post in July and put it down until now. Why did I allow this to happen? There are several reasons, none of them good.
-What causes burnout? Burnout is a form of depression caused by stress due to work.</description>
+      <description>For the past few months, I haven&amp;rsquo;t felt like writing. I haven&amp;rsquo;t felt like working on anything really. It has been impossible to motivate myself. The [resistence] (https://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026/) has kicked my ass. I&amp;rsquo;ve been burned out. I actually started writing this post in July and put it down until now. Why did I allow this to happen? There are several reasons, none of them good.
+What causes burnout? [Burnout] (https://en.wikipedia.org/wiki/Occupational_burnout) is a form of depression caused by stress due to work.</description>
     </item>
     
     <item>
@@ -45,7 +55,7 @@ What causes burnout? Burnout is a form of depression caused by stress due to wor
       <pubDate>Wed, 29 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>http://erikvancraddock.com/2016/06/how-i-consume-the-internet/</guid>
-      <description>I am an information junkie. I go from one obsession to the next. The Internet deals me out a constant supply of articles, images, music and video on any and every subject I can imagine. It is very easy to get sucked in. If I&amp;rsquo;m not careful I will find myself reading about some obscure religious rite or the mating habits of deep sea creatures or Neuromancer fan fiction. Every subject is represented.</description>
+      <description>I am an information junkie. I go from one obsession to the next. The Internet deals me out a constant supply of articles, images, music and video on any and every subject I can imagine. It is very easy to get sucked in. If I&amp;rsquo;m not careful I will find myself reading about some [obscure religious rite] (http://www.theapricity.com/forum/showthread.php?178939-8-Most-Bizarre-Religious-Rites) or the [mating habits of deep sea creatures] (http://news.nationalgeographic.com/2016/06/seahorse-reproduction-behavior-conservation/) or [Neuromancer fan fiction] (https://www.</description>
     </item>
     
     <item>
@@ -55,9 +65,7 @@ What causes burnout? Burnout is a form of depression caused by stress due to wor
       
       <guid>http://erikvancraddock.com/what-im-reading/</guid>
       <description>I love to read. I read so much that sometimes I worry about how healthy it might be. When I am in need of a good book I ask my friends. So it is only fair that I also recommend the books that I enjoy.
- Currently Reading 
-Most Recent Books I&amp;rsquo;ve Read 
-My Favorite Books</description>
+Currently Reading Most Recent Books I&amp;rsquo;ve Read My Favorite Books </description>
     </item>
     
     <item>
@@ -158,7 +166,7 @@ As parents, our concern is what they are learning from whom. Our hope is that th
       <pubDate>Sun, 25 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>http://erikvancraddock.com/2013/08/how-to-get-things-done/</guid>
-      <description>Lists are how we track what we need to do but this alone is not enough. Despite an abundance of technology available to help us keep track of tasks, many of us still keep these lists in our heads. We do this for a variety of reasons. They all have a common root. We don’t trust our system. We don’t actually believe that the list is the full list. We know that things have either been forgotten to be put on the list or were not important enough to track.</description>
+      <description>[Lists are how we track what we need to do] (/2013/07/29/an-overview-of-getting-things-done-lists/) but this alone is not enough. Despite an abundance of technology available to help us keep track of tasks, many of us still keep these lists in our heads. We do this for a variety of reasons. They all have a common root. We don’t trust our system. We don’t actually believe that the list is the full list. We know that things have either been forgotten to be put on the list or were not important enough to track.</description>
     </item>
     
     <item>
@@ -212,7 +220,7 @@ As parents, our concern is what they are learning from whom. Our hope is that th
       <pubDate>Wed, 13 Feb 2013 00:00:00 +0000</pubDate>
       
       <guid>http://erikvancraddock.com/2013/02/its-all-a-cliche/</guid>
-      <description>Today I’d like to share another song that Rodney Craddock and I have recorded. It is called It&amp;#8217;s all a cliche. My dad, Larry Craddock, is once again playing lead guitar. This time, my mom, Samie Craddock,has also made a huge contribution. She wrote the lyrics. I received an email from her seemingly out of the blue last November. It included a poem that she had written one day while she was in a particularly cynical mood.</description>
+      <description>Today I’d like to share another song that Rodney Craddock and I have recorded. It is called It’s all a cliche. My dad, Larry Craddock, is once again playing lead guitar. This time, my mom, Samie Craddock,has also made a huge contribution. She wrote the lyrics. I received an email from her seemingly out of the blue last November. It included a poem that she had written one day while she was in a particularly cynical mood.</description>
     </item>
     
     <item>
@@ -257,7 +265,7 @@ As parents, our concern is what they are learning from whom. Our hope is that th
       <pubDate>Mon, 15 Oct 2012 00:00:00 +0000</pubDate>
       
       <guid>http://erikvancraddock.com/2012/10/is-it-possible-to-sell-sound/</guid>
-      <description>The concept of property can get complicated. We have plenty of laws regulating it. In fact, the idea of private property is at the heart of our way of living. It seems fair that if you work hard creating something, then you should own it. That isn&amp;#8217;t always possible, and some things cannot be owned at all. Or at the very least, it would be silly to consider owning them, for example a cloud, rain or air.</description>
+      <description>The concept of property can get complicated. We have plenty of laws regulating it. In fact, the idea of private property is at the heart of our way of living. It seems fair that if you work hard creating something, then you should own it. That isn’t always possible, and some things cannot be owned at all. Or at the very least, it would be silly to consider owning them, for example a cloud, rain or air.</description>
     </item>
     
     <item>
@@ -266,7 +274,7 @@ As parents, our concern is what they are learning from whom. Our hope is that th
       <pubDate>Mon, 08 Oct 2012 00:00:00 +0000</pubDate>
       
       <guid>http://erikvancraddock.com/2012/10/how-to-build-habits-with-google-forms/</guid>
-      <description>There is a big difference between knowing what to do and actually doing it. It is easy to waste spend a lot time learning how to use it efficiently. There are dozens of time management systems out there. The one thing that they all have in common is a need of consistency. In order for a time management system to improve your life, you must consistently use it. In other words, you must build habits.</description>
+      <description>There is a big difference between knowing what to do and actually doing it. It is easy to wastespend a lot time learning how to use it efficiently. There are dozens of time management systems out there. The one thing that they all have in common is a need of consistency. In order for a time management system to improve your life, you must consistently use it. In other words, you must build habits.</description>
     </item>
     
     <item>
@@ -303,7 +311,7 @@ By the early 1900s, the phonograph was beginning to show up in private homes.</d
       <pubDate>Fri, 31 Aug 2012 00:00:00 +0000</pubDate>
       
       <guid>http://erikvancraddock.com/2012/08/do-kids-spend-too-much-time-inside/</guid>
-      <description>We ate dinner at seven o&amp;#8217;clock. We ate dinner together as a family, at the table, mom’s rules. My spot was at the end of the table directly in front of a wall heater, a prized location in the winter. I sat to the right of my brother Pete and across from mom. This was not some somber formal dining ritual. This was our daily family reunion after a busy day of school or play.</description>
+      <description>We ate dinner at seven o’clock. We ate dinner together as a family, at the table, mom’s rules. My spot was at the end of the table directly in front of a wall heater, a prized location in the winter. I sat to the right of my brother Pete and across from mom. This was not some somber formal dining ritual. This was our daily family reunion after a busy day of school or play.</description>
     </item>
     
     <item>
@@ -403,7 +411,7 @@ I’m never sure what to expect from a songwriting session. They can go in a lot
       <pubDate>Wed, 05 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>http://erikvancraddock.com/2011/10/up-in-the-air/</guid>
-      <description>For as long as I&amp;#8217;ve known Ron Philips, he has always been obsessed with airplanes. It was as if he belonged up in the air. His office was decorated with pictures of them. He had model airplanes on his desk. He played flight simulator games in his spare time. I wasn&amp;#8217;t the least bit surprised when I learned that he had begun the process of becoming a pilot. You could see that look in his eyes when he would talk about it.</description>
+      <description>For as long as I’ve known Ron Philips, he has always been obsessed with airplanes. It was as if he belonged up in the air. His office was decorated with pictures of them. He had model airplanes on his desk. He played flight simulator games in his spare time. I wasn’t the least bit surprised when I learned that he had begun the process of becoming a pilot. You could see that look in his eyes when he would talk about it.</description>
     </item>
     
     <item>
@@ -421,7 +429,7 @@ I’m never sure what to expect from a songwriting session. They can go in a lot
       <pubDate>Fri, 09 Sep 2011 00:00:00 +0000</pubDate>
       
       <guid>http://erikvancraddock.com/2011/09/our-great-american-rv-adventure-yellowstone-part1/</guid>
-      <description>Driving through Wyoming is like touring a spaghetti western movie. At any moment I expected traditionally dressed Arapaho to come riding out on horseback. Dylan and Drew peered out the window, one of them exclaimed &amp;#8220;this looks like Red Dead Redemption&amp;#8221;. This truly was a perfect picture of how I have always envisioned the Old West high plains. This describes most of the terrain of Wyoming, that is until one reaches the mountains.</description>
+      <description>Driving through Wyoming is like touring a spaghetti western movie. At any moment I expected traditionally dressed Arapaho to come riding out on horseback. Dylan and Drew peered out the window, one of them exclaimed “this looks like Red Dead Redemption”. This truly was a perfect picture of how I have always envisioned the Old West high plains. This describes most of the terrain of Wyoming, that is until one reaches the mountains.</description>
     </item>
     
     <item>
@@ -430,7 +438,7 @@ I’m never sure what to expect from a songwriting session. They can go in a lot
       <pubDate>Fri, 26 Aug 2011 00:00:00 +0000</pubDate>
       
       <guid>http://erikvancraddock.com/2011/08/our-great-american-rv-adventure-colorado-springs/</guid>
-      <description>The weather in Oklahoma and Texas leading up to our trip had been blistering hot. It was not at all uncommon for the temperature to reach 110 degrees. When we heard that it would almost certainly rain before we reached Colorado Springs most everyone rejoiced. However, when I looked over at dad he had no expression on his face at all. I asked &amp;#8220;Do you think rain will be an issue?</description>
+      <description>The weather in Oklahoma and Texas leading up to our trip had been blistering hot. It was not at all uncommon for the temperature to reach 110 degrees. When we heard that it would almost certainly rain before we reached Colorado Springs most everyone rejoiced. However, when I looked over at dad he had no expression on his face at all. I asked “Do you think rain will be an issue?</description>
     </item>
     
     <item>
@@ -467,7 +475,7 @@ My parents, aunts and uncles have ribbed me for that character ever since.</desc
       <pubDate>Fri, 06 May 2011 00:00:00 +0000</pubDate>
       
       <guid>http://erikvancraddock.com/2011/05/metabook-reviews/</guid>
-      <description>Is there such a thing as a book review that sticks to the facts? I&amp;#8217;m sick of reading opinionated reviews that focus on special circumstances. Satisfaction with what we read depends upon our motives. Our current situation and mood dictates our ability to enjoy anything that we do. Many book reviews do nothing more than recommend or discourage reading a particular title with very little reasoning. Half the time owners of bad reviews openly admit to not even finishing the book.</description>
+      <description>Is there such a thing as a book review that sticks to the facts? I’m sick of reading opinionated reviews that focus on special circumstances. Satisfaction with what we read depends upon our motives. Our current situation and mood dictates our ability to enjoy anything that we do. Many book reviews do nothing more than recommend or discourage reading a particular title with very little reasoning. Half the time owners of bad reviews openly admit to not even finishing the book.</description>
     </item>
     
     <item>
@@ -485,7 +493,7 @@ My parents, aunts and uncles have ribbed me for that character ever since.</desc
       <pubDate>Tue, 19 Apr 2011 00:00:00 +0000</pubDate>
       
       <guid>http://erikvancraddock.com/2011/04/book-review-the-peoples-history-of-the-united-states-by-howard-zinn/</guid>
-      <description>A theme is established at the beginning of the People&amp;#8217;s History of the United States. It begins with Christopher Columbus enslaving, kidnapping and slaughtering the native Americans. It is continued with the African slave trade. It is represented by the protest of war after war, in countless labor strikes and the struggle of many different minority groups for equal consideration. Howard Zinn&amp;#8217;s The People&amp;#8217;s History is the repetitive recounting of the rich few subjugating the weak majority in the name of democracy, capitalism and freedom.</description>
+      <description>A theme is established at the beginning of the People’s History of the United States. It begins with Christopher Columbus enslaving, kidnapping and slaughtering the native Americans. It is continued with the African slave trade. It is represented by the protest of war after war, in countless labor strikes and the struggle of many different minority groups for equal consideration. Howard Zinn’s The People’s History is the repetitive recounting of the rich few subjugating the weak majority in the name of democracy, capitalism and freedom.</description>
     </item>
     
     <item>
@@ -494,8 +502,8 @@ My parents, aunts and uncles have ribbed me for that character ever since.</desc
       <pubDate>Thu, 14 Apr 2011 00:00:00 +0000</pubDate>
       
       <guid>http://erikvancraddock.com/2011/04/disciple-reunion-at-trees/</guid>
-      <description>It&amp;#8217;s not often that Linda and I have a night without the kids so having a full weekend to do what we pleased felt very foreign indeed. This all came about thanks to a late 80&amp;#8217;s metal band. Let me explain.
-For Christmas, instead of adding to the ever increasing pile of toys, trinkets and equipment in Drew&amp;#8217;s room, we decided to give him three months of Drum lessons. I scoured the internet looking for the best instructor I could find that wasn&amp;#8217;t too far away.</description>
+      <description>It’s not often that Linda and I have a night without the kids so having a full weekend to do what we pleased felt very foreign indeed. This all came about thanks to a late 80’s metal band. Let me explain.
+For Christmas, instead of adding to the ever increasing pile of toys, trinkets and equipment in Drew’s room, we decided to give him three months of Drum lessons. I scoured the internet looking for the best instructor I could find that wasn’t too far away.</description>
     </item>
     
     <item>
@@ -513,7 +521,7 @@ For Christmas, instead of adding to the ever increasing pile of toys, trinkets a
       <pubDate>Sat, 12 Mar 2011 00:00:00 +0000</pubDate>
       
       <guid>http://erikvancraddock.com/2011/03/open-house/</guid>
-      <description>Bluebonnet Elementary school treated the family of its students to an Open House Thursday evening. It was highly anticipated at our house and Drew seemed excited to show us what he had been working on at school. I was already somewhat aware of what I would be seeing as I had been helping him with one of his projects off an on for the prior week. It&amp;#8217;s always fun to go to the school and see what the kids have been working on.</description>
+      <description>Bluebonnet Elementary school treated the family of its students to an Open House Thursday evening. It was highly anticipated at our house and Drew seemed excited to show us what he had been working on at school. I was already somewhat aware of what I would be seeing as I had been helping him with one of his projects off an on for the prior week. It’s always fun to go to the school and see what the kids have been working on.</description>
     </item>
     
     <item>
@@ -522,7 +530,7 @@ For Christmas, instead of adding to the ever increasing pile of toys, trinkets a
       <pubDate>Thu, 24 Feb 2011 00:00:00 +0000</pubDate>
       
       <guid>http://erikvancraddock.com/2011/02/the-reluctant-prisoner/</guid>
-      <description>The terms of surrender of private property and personal liberty were never fully agreed upon by all parties. Linda and I, henceforth known as &amp;#8220;The parents&amp;#8221;, have spent the better part of two years trying to ensure that the life, limb and property of a certain mister Ethan Craddock remain unmolested, much to his annoyance. He seems to consider himself a prisoner, the reluctant prisoner.
+      <description>The terms of surrender of private property and personal liberty were never fully agreed upon by all parties. Linda and I, henceforth known as “The parents”, have spent the better part of two years trying to ensure that the life, limb and property of a certain mister Ethan Craddock remain unmolested, much to his annoyance. He seems to consider himself a prisoner, the reluctant prisoner.
 A few months ago an incident occurred that made us painfully aware of the drastic measures which needed to take place.</description>
     </item>
     
@@ -541,7 +549,7 @@ A few months ago an incident occurred that made us painfully aware of the drasti
       <pubDate>Tue, 01 Feb 2011 00:00:00 +0000</pubDate>
       
       <guid>http://erikvancraddock.com/2011/02/fiesta-bowl-road-trip-boomer-sooner/</guid>
-      <description>For what felt like the first time in awhile during our Fiesta Bowl road trip, I woke up and everything was perfect. I took a shower and headed down to the hotel restaurant for breakfast and was greeted by several hotel guests donning Crimson and Cream. I was greeted on several occasions with a loud &amp;#8220;BOOMER&amp;#8221; which I of course replied with an equally loud &amp;#8220;SOONER&amp;#8221;. Everyone seemed as excited as we were.</description>
+      <description>For what felt like the first time in awhile during our Fiesta Bowl road trip, I woke up and everything was perfect. I took a shower and headed down to the hotel restaurant for breakfast and was greeted by several hotel guests donning Crimson and Cream. I was greeted on several occasions with a loud “BOOMER” which I of course replied with an equally loud “SOONER”. Everyone seemed as excited as we were.</description>
     </item>
     
     <item>
@@ -550,7 +558,7 @@ A few months ago an incident occurred that made us painfully aware of the drasti
       <pubDate>Wed, 26 Jan 2011 00:00:00 +0000</pubDate>
       
       <guid>http://erikvancraddock.com/2011/01/fiesta-bowl-road-trip-new-years-eve/</guid>
-      <description>It&amp;#8217;s hard to describe the feeling of elation that we all had as we drove away from Roswell in a brand new 2010 Toyota Camry on loan from the dealership. Not that Roswell was such a horrible place, but let&amp;#8217;s face it, it is a town that is primarily known for the fact that some of its residents insisted that they had been visited by little green men. That is not exactly an indicator of high culture or sophistication, then again we were passing through there on our way to see grown men run up and down a patch of grass while trying to tackle each other.</description>
+      <description>It’s hard to describe the feeling of elation that we all had as we drove away from Roswell in a brand new 2010 Toyota Camry on loan from the dealership. Not that Roswell was such a horrible place, but let’s face it, it is a town that is primarily known for the fact that some of its residents insisted that they had been visited by little green men. That is not exactly an indicator of high culture or sophistication, then again we were passing through there on our way to see grown men run up and down a patch of grass while trying to tackle each other.</description>
     </item>
     
     <item>
@@ -590,7 +598,7 @@ Practically speaking this website is a platform for documenting my ever evolving
       <pubDate>Sat, 31 Jul 2010 00:00:00 +0000</pubDate>
       
       <guid>http://erikvancraddock.com/2010/07/football-camp/</guid>
-      <description>Football season is almost underway again and I have a new favorite team. I am now a die hard Chiefs fan. No not those Chiefs, I&amp;#8217;m talking about my sons new football team the [RYA][1] Junior Chiefs. He has played for the bantam Panthers team for the last three years with plenty of ups and downs. Along the way Drew has experienced blood, sweat and tears. He went from mostly watching along the sidelines his first year to being Mr.</description>
+      <description>Football season is almost underway again and I have a new favorite team. I am now a die hard Chiefs fan. No not those Chiefs, I’m talking about my sons new football team the [RYA][1] Junior Chiefs. He has played for the bantam Panthers team for the last three years with plenty of ups and downs. Along the way Drew has experienced blood, sweat and tears. He went from mostly watching along the sidelines his first year to being Mr.</description>
     </item>
     
     <item>
@@ -599,11 +607,11 @@ Practically speaking this website is a platform for documenting my ever evolving
       <pubDate>Mon, 26 Jul 2010 00:00:00 +0000</pubDate>
       
       <guid>http://erikvancraddock.com/2010/07/sailing-with-tron/</guid>
-      <description>6:15 AM : Rise and shine&amp;#8230; er sort of. Drew awakens reluctantly
-6:30 AM : Start the morning off right with a big bowl of sugar&amp;#8230;. I mean cereal
-6:45 AM : Get in the car and head towards our rendezvous point at Nathan&amp;#8217;s house
-6:46 AM : Check my text messages from the night before and see that I received a message at 2 AM cancelling&amp;#8230;.
-Ok, so the morning didn&amp;#8217;t start off quite the way that we had planned.</description>
+      <description>6:15 AM : Rise and shine… er sort of. Drew awakens reluctantly
+6:30 AM : Start the morning off right with a big bowl of sugar…. I mean cereal
+6:45 AM : Get in the car and head towards our rendezvous point at Nathan’s house
+6:46 AM : Check my text messages from the night before and see that I received a message at 2 AM cancelling….
+Ok, so the morning didn’t start off quite the way that we had planned.</description>
     </item>
     
     <item>
@@ -612,8 +620,7 @@ Ok, so the morning didn&amp;#8217;t start off quite the way that we had planned.
       <pubDate>Wed, 20 May 2009 00:00:00 +0000</pubDate>
       
       <guid>http://erikvancraddock.com/2009/05/wow-as-it-turns-out-im-a-terrorist/</guid>
-      <description>Pretty much spent my whole day trying to get subversion, ahnk, tortoisesvn and visual studio updated. I also began working on a new dialog to Adding Attachments that are not scanned. I&amp;#8217;ve also decided that I need to create a user control that rolls up all the attachment functionality.
-   Today Nathan got a call from our boss because apparantly he &amp;#8220;freaked out&amp;#8221; the cleaning crew. About a week ago or so he wrote at the top of our white board which covers a whole wall of our shared office, &amp;#8220;Erik is a terrorist supercell&amp;#8221;.</description>
+      <description>Pretty much spent my whole day trying to get subversion, ahnk, tortoisesvn and visual studio updated. I also began working on a new dialog to Adding Attachments that are not scanned. I’ve also decided that I need to create a user control that rolls up all the attachment functionality.</description>
     </item>
     
     <item>
@@ -622,7 +629,7 @@ Ok, so the morning didn&amp;#8217;t start off quite the way that we had planned.
       <pubDate>Wed, 25 Mar 2009 00:00:00 +0000</pubDate>
       
       <guid>http://erikvancraddock.com/2009/03/not-smoking-sux/</guid>
-      <description>so on the way home from work yesterday Nathan and I decided to stop smoking. I had two cigarretes left and it was about 4:30. I smoked the first one immediately after driving off after dropping him off at his house. I smoked the 2nd one at about 7:30 last night. I&amp;#8217;ve been losing my mind ever since. By the way it should be noted that I got a text message from Nathan saying that he was not going to quit.</description>
+      <description>so on the way home from work yesterday Nathan and I decided to stop smoking. I had two cigarretes left and it was about 4:30. I smoked the first one immediately after driving off after dropping him off at his house. I smoked the 2nd one at about 7:30 last night. I’ve been losing my mind ever since. By the way it should be noted that I got a text message from Nathan saying that he was not going to quit.</description>
     </item>
     
     <item>
@@ -640,8 +647,7 @@ Ok, so the morning didn&amp;#8217;t start off quite the way that we had planned.
       <pubDate>Mon, 23 Mar 2009 00:00:00 +0000</pubDate>
       
       <guid>http://erikvancraddock.com/2009/03/my-weekend/</guid>
-      <description>Mario and Andrea drove up to spend the weekend with us on friday night. They arrived at about 8 or 8:30. I guess Mario was already missing Sue who came to spend the remainder of linda&amp;#8217;s prenancy on wednesday.
- On Saturday, I finally decided to do something about the door panel on the Durango. Linda has been asking me to get it fixed for months now. I went outside and removed the panel from the door hoping that I could find some way to fix the clips and put it back on where it would stay.</description>
+      <description>Mario and Andrea drove up to spend the weekend with us on friday night. They arrived at about 8 or 8:30. I guess Mario was already missing Sue who came to spend the remainder of linda’s prenancy on wednesday.</description>
     </item>
     
     <item>
@@ -650,8 +656,7 @@ Ok, so the morning didn&amp;#8217;t start off quite the way that we had planned.
       <pubDate>Fri, 20 Mar 2009 14:13:33 -0500</pubDate>
       
       <guid>http://erikvancraddock.com/2009/03/why-am-i-doing-this-again/</guid>
-      <description>Ok, I&amp;#8217;ve decided to start recording my daily activities for a number of reasons.
-   My supervisor requires me to give a list of projects that I worked on along with the amount of time that I saved for someone each year. This should make that task a little easier and more accurate.   This should give me a better idea of what I am accomplishing each day.</description>
+      <description>Ok, I’ve decided to start recording my daily activities for a number of reasons.</description>
     </item>
     
   </channel>
