@@ -1,0 +1,763 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <title>GSuite Migration Part 3 - Import Contacts &middot; ERIK.VAN.CRADDOCK</title>
+    <meta name="generator" content="Hugo 0.68.3" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="author" content="Erik Craddock">
+    
+      <meta name="description" content="">
+    
+    <link rel="canonical" href="http://erikvancraddock.com/2021/02/gsuite-migration-contacts/"/>
+    <link rel="icon" href="http://erikvancraddock.com/favicon.ico">
+    <link rel="apple-touch-icon" href="http://erikvancraddock.com/apple-touch-icon.png"/>
+    <link rel="stylesheet" href="http://erikvancraddock.com/css/style.css">
+    <link rel="stylesheet" href="http://erikvancraddock.com/css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://erikvancraddock.com/css/monokai.css">
+    <link rel="stylesheet" href="http://erikvancraddock.com/fancybox/jquery.fancybox.css">
+    
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,600' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Source+Code+Pro' rel='stylesheet' type='text/css'>
+    <meta property="og:title" content="GSuite Migration Part 3 - Import Contacts" />
+<meta property="og:description" content="Import Google Suite contacts into your gmail.com account The email import tool claims to also import your contacts. That does not seem to be the case in my experience. Thankfully, exporting and importing contacts is pretty simple. However, having duplicate contacts is annoying. You should probably verify that your contacts have already been imported. Otherwise here is how you do it.
+ Go to the contacts website and log in as your Google Suite/Apps account Click on the Export link in the sidebar and then select Google CSV and click the Export button It will prompt you with how to handle the file." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://erikvancraddock.com/2021/02/gsuite-migration-contacts/" />
+<meta property="article:published_time" content="2021-02-25T00:00:00+00:00" />
+<meta property="article:modified_time" content="2021-02-25T00:00:00+00:00" />
+
+    
+    <meta itemprop="name" content="GSuite Migration Part 3 - Import Contacts">
+<meta itemprop="description" content="Import Google Suite contacts into your gmail.com account The email import tool claims to also import your contacts. That does not seem to be the case in my experience. Thankfully, exporting and importing contacts is pretty simple. However, having duplicate contacts is annoying. You should probably verify that your contacts have already been imported. Otherwise here is how you do it.
+ Go to the contacts website and log in as your Google Suite/Apps account Click on the Export link in the sidebar and then select Google CSV and click the Export button It will prompt you with how to handle the file.">
+<meta itemprop="datePublished" content="2021-02-25T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2021-02-25T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="248">
+
+
+
+<meta itemprop="keywords" content="how-to," />
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="GSuite Migration Part 3 - Import Contacts"/>
+<meta name="twitter:description" content="Import Google Suite contacts into your gmail.com account The email import tool claims to also import your contacts. That does not seem to be the case in my experience. Thankfully, exporting and importing contacts is pretty simple. However, having duplicate contacts is annoying. You should probably verify that your contacts have already been imported. Otherwise here is how you do it.
+ Go to the contacts website and log in as your Google Suite/Apps account Click on the Export link in the sidebar and then select Google CSV and click the Export button It will prompt you with how to handle the file."/>
+<meta name="twitter:site" content="@evcraddock"/>
+
+    
+
+    
+
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+</head>
+<body>
+<div class="container">
+
+
+<div id="container">
+	<header id="header">
+  <div id="header-main" class="header-inner" >
+    <div class="outer">
+    
+      <a href="http://erikvancraddock.com/" id="logo"><span class="site-title">ERIK.VAN.CRADDOCK</span></a>
+      <nav id="main-nav">
+          
+          
+          
+          
+          
+          
+          
+          
+          
+
+          
+
+          
+          
+          <a class="main-nav-link" href="http://erikvancraddock.com/categories/family">Family</a>
+          
+          
+          
+          <a class="main-nav-link" href="http://erikvancraddock.com/categories/ideas">Ideas</a>
+          
+          
+          
+          <a class="main-nav-link" href="http://erikvancraddock.com/categories/work">Work</a>
+          
+          
+          
+          <a class="main-nav-link" href="http://erikvancraddock.com/categories/music">Music</a>
+          
+          
+      </nav>
+        <nav id="sub-nav">
+          <div class="profile" id="profile-nav">
+            <a id="profile-anchor" href="javascript:;"><img class="avatar" src="http://erikvancraddock.com/css/images/avatar.jpg"><i class="fa fa-caret-down"></i></a>
+          </div>
+        </nav>
+        <div id="search-form-wrap">
+          <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form">
+              <input type="search" name="q" results="0" class="search-form-input" placeholder="Search">
+              <button type="submit" class="search-form-submit">
+              </button>
+              <input type="hidden" name="q" value="site:http://erikvancraddock.com/">
+         </form>
+        </div>
+    </div>
+  </div>
+  <div id="main-nav-mobile" class="header-sub header-inner">
+    <table class="menu outer">
+      <tbody>
+          <tr>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+
+          
+
+          
+          
+          <td><a class="main-nav-link" href="http://erikvancraddock.com/categories/family">Family</a></td>
+          
+          
+          
+          <td><a class="main-nav-link" href="http://erikvancraddock.com/categories/ideas">Ideas</a></td>
+          
+          
+          
+          <td><a class="main-nav-link" href="http://erikvancraddock.com/categories/work">Work</a></td>
+          
+          
+          
+          <td><a class="main-nav-link" href="http://erikvancraddock.com/categories/music">Music</a></td>
+          
+          
+          <td>
+          <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form">
+          <input type="search" name="q" results="0" class="search-form-input" placeholder="Search">
+          <input type="hidden" name="q" value="site:http://erikvancraddock.com/">
+          </form>
+        </td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+</header>
+
+   	
+   	<div class="outer">
+   		
+	    <aside id="profile">
+  <div class="inner profile-inner">
+    <div class="base-info profile-block">
+      <img id="avatar" src="http://erikvancraddock.com/css/images/avatar.jpg">
+      <a href="/aboutme">
+          <h2 id="name">Erik Craddock</h2>
+      </a>
+      <h3 id="title">Musician, Programmer, Troublemaker</h3>
+      <span id="location"><i class="fa fa-map-marker"></i>Mustang, Oklahoma</span>
+    </div>
+    
+    <div class="contact-info profile-block">
+      <table class="contact-list">
+        <tr>
+          
+<td><a href="//github.com/evcraddock" target="_blank" title="GitHub"><i class="fa fa-github"></i></a></td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<td><a href="//instagram.com/evcraddock" target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a></td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<td><a href="//pinterest.com/evcraddock" target="_blank" title="Pinterest"><i class="fa fa-pinterest"></i></a></td>
+
+
+
+
+
+<td><a href="//facebook.com/evcraddock" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></td>
+
+
+
+<td><a href="//twitter.com/evcraddock" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></td>
+
+
+          <td><a href='' target="_blank" title="RSS"><i class="fa fa-rss"></i></a></td>
+        </tr>
+      </table>
+    </div>
+
+  </div>
+   
+    
+<div class="widget-wrap">
+    <h3 class="widget-title">
+        Recents
+    </h3>
+    
+        <ul id="recent-post">
+            
+            <li>
+                
+                <div class="item-inner">
+                    
+                    <p class="item-category">
+                        <a class="article-category-link" href="http://erikvancraddock.com/categories/work">
+                        work
+                        </a>
+                    </p>
+                    
+                    <p class="item-title"><a href="http://erikvancraddock.com/2021/02/gsuite-migration-drive/" class="title">GSuite Migration Part 5 - Import Drive</a></p>
+                    <p class="item-date">
+                        <time datetime="2021-02-27 00:00:00 &#43;0000 UTC" itemprop="datePublished">2021-02-27</time>
+                    </p>
+                </div>
+            </li>
+            
+            <li>
+                
+                <div class="item-inner">
+                    
+                    <p class="item-category">
+                        <a class="article-category-link" href="http://erikvancraddock.com/categories/work">
+                        work
+                        </a>
+                    </p>
+                    
+                    <p class="item-title"><a href="http://erikvancraddock.com/2021/02/gsuite-migration-calendar/" class="title">GSuite Migration Part 4 - Import Calendar</a></p>
+                    <p class="item-date">
+                        <time datetime="2021-02-26 00:00:00 &#43;0000 UTC" itemprop="datePublished">2021-02-26</time>
+                    </p>
+                </div>
+            </li>
+            
+            <li>
+                
+                <div class="item-inner">
+                    
+                    <p class="item-category">
+                        <a class="article-category-link" href="http://erikvancraddock.com/categories/work">
+                        work
+                        </a>
+                    </p>
+                    
+                    <p class="item-title"><a href="http://erikvancraddock.com/2021/02/gsuite-migration-contacts/" class="title">GSuite Migration Part 3 - Import Contacts</a></p>
+                    <p class="item-date">
+                        <time datetime="2021-02-25 00:00:00 &#43;0000 UTC" itemprop="datePublished">2021-02-25</time>
+                    </p>
+                </div>
+            </li>
+            
+            <li>
+                
+                <div class="item-inner">
+                    
+                    <p class="item-category">
+                        <a class="article-category-link" href="http://erikvancraddock.com/categories/work">
+                        work
+                        </a>
+                    </p>
+                    
+                    <p class="item-title"><a href="http://erikvancraddock.com/2021/02/gsuite-migration-email/" class="title">GSuite Migration Part 2 - Import Email</a></p>
+                    <p class="item-date">
+                        <time datetime="2021-02-24 00:00:00 &#43;0000 UTC" itemprop="datePublished">2021-02-24</time>
+                    </p>
+                </div>
+            </li>
+            
+            <li>
+                
+                <div class="item-inner">
+                    
+                    <p class="item-category">
+                        <a class="article-category-link" href="http://erikvancraddock.com/categories/work">
+                        work
+                        </a>
+                    </p>
+                    
+                    <p class="item-title"><a href="http://erikvancraddock.com/2021/02/gsuite-migration-intro/" class="title">GSuite Migration - Introduction</a></p>
+                    <p class="item-date">
+                        <time datetime="2021-02-23 00:00:00 &#43;0000 UTC" itemprop="datePublished">2021-02-23</time>
+                    </p>
+                </div>
+            </li>
+            
+        </ul>
+   
+</div>
+
+
+    
+
+
+<div class="widget-wrap">
+    <h3 class="widget-title">Categories</h3>
+    <div class="widget">
+        <ul class="category-list">
+            
+            <li class="category-list-item">
+                
+                <a class="category-list-link" href="http://erikvancraddock.com/categories/book-review">
+                    book-review
+                </a>
+                <span class="category-list-count">5</span>
+            </li>
+            
+            <li class="category-list-item">
+                
+                <a class="category-list-link" href="http://erikvancraddock.com/categories/family">
+                    family
+                </a>
+                <span class="category-list-count">23</span>
+            </li>
+            
+            <li class="category-list-item">
+                
+                <a class="category-list-link" href="http://erikvancraddock.com/categories/ideas">
+                    ideas
+                </a>
+                <span class="category-list-count">26</span>
+            </li>
+            
+            <li class="category-list-item">
+                
+                <a class="category-list-link" href="http://erikvancraddock.com/categories/music">
+                    music
+                </a>
+                <span class="category-list-count">10</span>
+            </li>
+            
+            <li class="category-list-item">
+                
+                <a class="category-list-link" href="http://erikvancraddock.com/categories/productivity">
+                    productivity
+                </a>
+                <span class="category-list-count">7</span>
+            </li>
+            
+            <li class="category-list-item">
+                
+                <a class="category-list-link" href="http://erikvancraddock.com/categories/work">
+                    work
+                </a>
+                <span class="category-list-count">16</span>
+            </li>
+            
+        </ul>
+    </div>
+</div>
+
+
+
+
+    
+
+    
+
+
+<div class="widget-wrap">
+    <h3 class="widget-title">
+        Tag cloud
+    </h3>
+    <div class="widget tagcloud">
+        
+        
+        <a href="http://erikvancraddock.com/tags/2016" style="font-size: 12px;">2016</a>
+        
+        
+        <a href="http://erikvancraddock.com/tags/burnout" style="font-size: 12px;">burnout</a>
+        
+        
+        <a href="http://erikvancraddock.com/tags/chrome" style="font-size: 12px;">chrome</a>
+        
+        
+        <a href="http://erikvancraddock.com/tags/goals" style="font-size: 12px;">goals</a>
+        
+        
+        <a href="http://erikvancraddock.com/tags/goread" style="font-size: 12px;">goread</a>
+        
+        
+        <a href="http://erikvancraddock.com/tags/gtd" style="font-size: 12px;">gtd</a>
+        
+        
+        <a href="http://erikvancraddock.com/tags/how-to" style="font-size: 12px;">how-to</a>
+        
+        
+        <a href="http://erikvancraddock.com/tags/ideas" style="font-size: 12px;">ideas</a>
+        
+        
+        <a href="http://erikvancraddock.com/tags/in-person" style="font-size: 12px;">in-person</a>
+        
+        
+        <a href="http://erikvancraddock.com/tags/internet" style="font-size: 12px;">internet</a>
+        
+        
+        <a href="http://erikvancraddock.com/tags/lean-startup" style="font-size: 12px;">lean-startup</a>
+        
+        
+        <a href="http://erikvancraddock.com/tags/meet-people" style="font-size: 12px;">meet-people</a>
+        
+        
+        <a href="http://erikvancraddock.com/tags/music" style="font-size: 12px;">music</a>
+        
+        
+        <a href="http://erikvancraddock.com/tags/mvp" style="font-size: 12px;">mvp</a>
+        
+        
+        <a href="http://erikvancraddock.com/tags/original-song" style="font-size: 12px;">original-song</a>
+        
+        
+        <a href="http://erikvancraddock.com/tags/plan" style="font-size: 12px;">plan</a>
+        
+        
+        <a href="http://erikvancraddock.com/tags/plans" style="font-size: 12px;">plans</a>
+        
+        
+        <a href="http://erikvancraddock.com/tags/pocket" style="font-size: 12px;">pocket</a>
+        
+        
+        <a href="http://erikvancraddock.com/tags/productivity" style="font-size: 12px;">productivity</a>
+        
+        
+        <a href="http://erikvancraddock.com/tags/professionals" style="font-size: 12px;">professionals</a>
+        
+        
+        <a href="http://erikvancraddock.com/tags/social-media" style="font-size: 12px;">social-media</a>
+        
+    </div>
+</div>
+
+
+
+
+   
+
+    <div id="toTop" class="fa fa-angle-up"></div>
+</aside>
+
+	    
+
+	    
+<section id="main" class="full-width">
+    <article id="page-undefined" class="article article-type-page" itemscope="" itemprop="blogPost">
+        <div class="article-inner">
+            
+                
+                <img src="http://erikvancraddock.com//images/gsuite-migration/g-suite-migration.png" class="article-banner">
+                
+            
+
+            <header class="article-header">
+    <a href="http://erikvancraddock.com/2021/02/gsuite-migration-contacts/">
+    <h1 class="article-title" itemprop="name">
+        GSuite Migration Part 3 - Import Contacts
+    </h1>
+    </a>
+    <div class="article-meta">
+        <div class="article-date">
+            <i class="fa fa-calendar"></i>
+            <time datetime="2021-02-25 00:00:00 &#43;0000 UTC" itemprop="datePublished">2021-02-25</time>
+            &middot;
+            248
+            words
+            &middot;
+            2
+            minute read
+        </div>
+
+        
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-folder"></i>
+                
+                <a class="article-category-link" href="http://erikvancraddock.com/categories/work">work</a>
+                
+                
+            </div>
+            
+        
+
+    </div>
+</header>
+
+            <div class="article-entry" itemprop="articleBody">
+                <h3 id="import-google-suite-contacts-into-your-gmailcom-account">Import Google Suite contacts into your gmail.com account</h3>
+<p>The email import tool claims to also import your contacts. That does not seem to be the case in my experience. Thankfully, exporting and importing contacts is pretty simple. However, having duplicate contacts is annoying. You should probably verify that your contacts have already been imported. Otherwise here is how you do it.</p>
+<ul>
+<li>Go to the <a href="https://contacts.google.com">contacts website</a> and log in as your Google Suite/Apps account</li>
+<li>Click on the Export link in the sidebar and then select Google CSV and click the Export button</li>
+<li>It will prompt you with how to handle the file. Select &ldquo;Save File&rdquo; and press Ok.
+<ul>
+<li>The file should get saved in your Downloads folder as google-contacts.csv</li>
+</ul>
+</li>
+<li>Switch to the Google Chrome window where you are logged into your new gmail.com account
+<ul>
+<li>If you are not logged into your gmail.com account anywhere, open a new Chrome window</li>
+<li>Go to the <a href="https://contacts.google.com">contacts website</a> and log in as your gmail.com account</li>
+</ul>
+</li>
+<li>Click on the Import link in the sidebar and then click &ldquo;Select File&rdquo;
+<ul>
+<li>Select the google-contacts.csv file that you saved earlier. It should be in your Downloads folder</li>
+</ul>
+</li>
+<li>Once you select the file click Import</li>
+<li>You should now see all of your contacts listed.</li>
+</ul>
+<p><strong>Screen Shots</strong><br>
+
+
+
+
+  
+
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="/js/load-photoswipe.js"></script>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+
+
+
+<div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	   
+  
+<link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/images/gsuite-migration/export%20contacts.png');">
+      <img itemprop="thumbnail" src="/images/gsuite-migration/export%20contacts.png" />
+    </div>
+    <a href="/images/gsuite-migration/export%20contacts.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
+  
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/images/gsuite-migration/import%20contacts.png');">
+      <img itemprop="thumbnail" src="/images/gsuite-migration/import%20contacts.png" />
+    </div>
+    <a href="/images/gsuite-migration/import%20contacts.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
+
+</div>
+</p>
+<p>Next, we need to <a href="/2021/02/gsuite-migration-calendar/">import</a> all of our events or reminders from the calendar. This process if pretty similar to contacts.</p>
+<p>In case you missed them, here are the other Google Suite to Google Account migration instructions.</p>
+<ul>
+<li><a href="/2021/02/gsuite-migration-intro/">Introduction</a></li>
+<li><a href="/2021/02/gsuite-migration-email/">Email</a></li>
+<li><a href="/2021/02/gsuite-migration-calendar/">Calendar</a></li>
+<li><a href="/2021/02/gsuite-migration-drive/">Drive</a></li>
+</ul>
+
+            </div>
+            <footer class="article-footer">
+
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-tags"></i>
+                
+                <a class="article-category-link" href="http://erikvancraddock.com/tags/how-to">how-to</a>
+                
+                
+            </div>
+            
+        
+        
+    <a data-url="http://erikvancraddock.com/2021/02/gsuite-migration-contacts/" data-id="4cf2331272f33191996bc4ba33c07dbe" class="article-share-link">
+        Share
+    </a>
+    
+</footer>
+
+        </div>
+
+        
+<nav id="article-nav">
+    
+    <a href="http://erikvancraddock.com/2021/02/gsuite-migration-email/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">
+          &gt;&gt;
+      </strong>
+      <div class="article-nav-title">GSuite Migration Part 2 - Import Email</div>
+    </a>
+    
+
+    
+    <a href="http://erikvancraddock.com/2021/02/gsuite-migration-calendar/" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">
+          &lt;&lt;
+      </strong>
+      <div class="article-nav-title">GSuite Migration Part 4 - Import Calendar</div>
+    </a>
+    
+</nav>
+
+
+    </article>
+
+    
+    <section id="comments">
+        <div id="disqus_thread">
+            
+        </div>
+    </section>
+    
+</section>
+
+	</div>
+</div>
+
+<footer id="footer">
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      &copy; 2021
+      Erik Craddock
+    </div>
+  </div>
+</footer>
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-17539024-2', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+<script src="http://erikvancraddock.com/fancybox/jquery.fancybox.pack.js"></script>
+<script src="http://erikvancraddock.com/js/script.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js"></script>
+
+
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']]}
+  });
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+
+
+</body>
+</html>

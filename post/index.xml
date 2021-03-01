@@ -6,10 +6,59 @@
     <description>Recent content in Posts on ERIK.VAN.CRADDOCK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://erikvancraddock.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GSuite Migration Part 5 - Import Drive</title>
+      <link>http://erikvancraddock.com/2021/02/gsuite-migration-drive/</link>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikvancraddock.com/2021/02/gsuite-migration-drive/</guid>
+      <description>Move Drive files from Google apps to gmail.com account Drive Migrating your Google Drive files is the least automated process of them all. What I mean by that is that there is not a way to migrate your files. Instead, it is necessary to download your files from your existing account. Then, you need to upload those file to your new gmail.com account Drive. There is one hangup. Google documents are not actually documents.</description>
+    </item>
+    
+    <item>
+      <title>GSuite Migration Part 4 - Import Calendar</title>
+      <link>http://erikvancraddock.com/2021/02/gsuite-migration-calendar/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikvancraddock.com/2021/02/gsuite-migration-calendar/</guid>
+      <description>Import Google Suite calendar into your gmail.com account This process is pretty simple. You go into settings and export your contacts from one account and import them into the other.
+ Go to the calendar website and log in as your Google Suite/Apps account Click on the gear icon and then click Settings Click on &amp;ldquo;Import &amp;amp; Export&amp;rdquo; in the sidebar Click on the Export button, this will save a zip file in your computers Download folder Open your Downloads folder and extract the zip file Go to the calendar website and log in as your gmail.</description>
+    </item>
+    
+    <item>
+      <title>GSuite Migration Part 3 - Import Contacts</title>
+      <link>http://erikvancraddock.com/2021/02/gsuite-migration-contacts/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikvancraddock.com/2021/02/gsuite-migration-contacts/</guid>
+      <description>Import Google Suite contacts into your gmail.com account The email import tool claims to also import your contacts. That does not seem to be the case in my experience. Thankfully, exporting and importing contacts is pretty simple. However, having duplicate contacts is annoying. You should probably verify that your contacts have already been imported. Otherwise here is how you do it.
+ Go to the contacts website and log in as your Google Suite/Apps account Click on the Export link in the sidebar and then select Google CSV and click the Export button It will prompt you with how to handle the file.</description>
+    </item>
+    
+    <item>
+      <title>GSuite Migration Part 2 - Import Email</title>
+      <link>http://erikvancraddock.com/2021/02/gsuite-migration-email/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikvancraddock.com/2021/02/gsuite-migration-email/</guid>
+      <description>Import Google Suite email into your gmail.com account If you are worried about changing your email address, don&amp;rsquo;t be. I know that a lot of you have had your google apps email address for awhile. You have given it out to a lot of people. You want to continue to use it. You will still be able to use your email address.
+What we are going to do is forward your email address from your google app email to your new gmail.</description>
+    </item>
+    
+    <item>
+      <title>GSuite Migration - Introduction</title>
+      <link>http://erikvancraddock.com/2021/02/gsuite-migration-intro/</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikvancraddock.com/2021/02/gsuite-migration-intro/</guid>
+      <description>Many years ago I setup my personal domain using Google Apps. Over the years, I gave friends and family accounts on my personal domain. When I first set this up it was free. It no longer is and I have decided to move my domain off of Google Suite as it is now called. Switching isn&amp;rsquo;t as easy as you would hope. There are several things to consider.
+ Third party applications that use Google Authentication Email Contacts Calendar Google Drive  As I mentioned, family and friends are also using this domain.</description>
+    </item>
     
     <item>
       <title>How to find good ideas</title>
@@ -55,7 +104,7 @@ What causes burnout? [Burnout] (https://en.wikipedia.org/wiki/Occupational_burno
       <pubDate>Wed, 29 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>http://erikvancraddock.com/2016/06/how-i-consume-the-internet/</guid>
-      <description>I am an information junkie. I go from one obsession to the next. The Internet deals me out a constant supply of articles, images, music and video on any and every subject I can imagine. It is very easy to get sucked in. If I&amp;rsquo;m not careful I will find myself reading about some [obscure religious rite] (http://www.theapricity.com/forum/showthread.php?178939-8-Most-Bizarre-Religious-Rites) or the [mating habits of deep sea creatures] (http://news.nationalgeographic.com/2016/06/seahorse-reproduction-behavior-conservation/) or [Neuromancer fan fiction] (https://www.</description>
+      <description>I am an information junkie. I go from one obsession to the next. The Internet deals me out a constant supply of articles, images, music and video on any and every subject I can imagine. It is very easy to get sucked in. If I&amp;rsquo;m not careful I will find myself reading about some obscure religious rite or the mating habits of deep sea creatures or Neuromancer fan fiction. Every subject is represented.</description>
     </item>
     
     <item>
