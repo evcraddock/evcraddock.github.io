@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>music on ERIK.VAN.CRADDOCK</title>
-    <link>http://erikvancraddock.com/tags/music/</link>
+    <link>/tags/music/</link>
     <description>Recent content in music on ERIK.VAN.CRADDOCK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://erikvancraddock.com/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Gluttonous Amount of Music</title>
-      <link>http://erikvancraddock.com/2019/01/gluttony-music/</link>
+      <link>/2019/01/gluttony-music/</link>
       <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://erikvancraddock.com/2019/01/gluttony-music/</guid>
+      <guid>/2019/01/gluttony-music/</guid>
       <description>Music has become so ubiquitous that it has mostly lost it&amp;rsquo;s luster. Gone are the days when your music collection defined you as a person. Gone are the days when listening to music was an actual past time. Music is now a commodity. It is the noise that acts as the sound track for our lives. This is hardly even debatable at this point. I know that there are still insurgent music listeners out there, little pockets of resistance who probably sit around their record players soaking in the ambiance.</description>
     </item>
     
