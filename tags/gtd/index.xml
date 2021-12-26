@@ -2,30 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GTD on ERIK.VAN.CRADDOCK</title>
-    <link>http://erikvancraddock.com/tags/gtd/</link>
+    <link>/tags/gtd/</link>
     <description>Recent content in GTD on ERIK.VAN.CRADDOCK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Aug 2013 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://erikvancraddock.com/tags/gtd/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 25 Aug 2013 00:00:00 +0000</lastBuildDate><atom:link href="/tags/gtd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Get Things Done – GTD</title>
-      <link>http://erikvancraddock.com/2013/08/how-to-get-things-done/</link>
+      <link>/2013/08/how-to-get-things-done/</link>
       <pubDate>Sun, 25 Aug 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://erikvancraddock.com/2013/08/how-to-get-things-done/</guid>
+      <guid>/2013/08/how-to-get-things-done/</guid>
       <description>[Lists are how we track what we need to do] (/2013/07/29/an-overview-of-getting-things-done-lists/) but this alone is not enough. Despite an abundance of technology available to help us keep track of tasks, many of us still keep these lists in our heads. We do this for a variety of reasons. They all have a common root. We don’t trust our system. We don’t actually believe that the list is the full list. We know that things have either been forgotten to be put on the list or were not important enough to track.</description>
     </item>
     
     <item>
       <title>An Overview of Getting Things Done – Lists</title>
-      <link>http://erikvancraddock.com/2013/07/an-overview-of-getting-things-done-lists/</link>
+      <link>/2013/07/an-overview-of-getting-things-done-lists/</link>
       <pubDate>Mon, 29 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://erikvancraddock.com/2013/07/an-overview-of-getting-things-done-lists/</guid>
+      <guid>/2013/07/an-overview-of-getting-things-done-lists/</guid>
       <description>Getting Things Done is a task management system created by David Allen. Its purpose is to establish a framework for tracking tasks so that all necessary resources are available when and where they are needed. A primary focus is to ensure that the system can be trusted as the one source of anything that needs to be done. This is an overview of the system from my own point of view.</description>
     </item>
     

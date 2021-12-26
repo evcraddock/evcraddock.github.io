@@ -2,70 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>how-to on ERIK.VAN.CRADDOCK</title>
-    <link>http://erikvancraddock.com/tags/how-to/</link>
+    <link>/tags/how-to/</link>
     <description>Recent content in how-to on ERIK.VAN.CRADDOCK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Feb 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://erikvancraddock.com/tags/how-to/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 27 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/how-to/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GSuite Migration Part 5 - Import Drive</title>
-      <link>http://erikvancraddock.com/2021/02/gsuite-migration-drive/</link>
+      <link>/2021/02/gsuite-migration-drive/</link>
       <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://erikvancraddock.com/2021/02/gsuite-migration-drive/</guid>
+      <guid>/2021/02/gsuite-migration-drive/</guid>
       <description>Move Drive files from Google apps to gmail.com account Drive Migrating your Google Drive files is the least automated process of them all. What I mean by that is that there is not a way to migrate your files. Instead, it is necessary to download your files from your existing account. Then, you need to upload those file to your new gmail.com account Drive. There is one hangup. Google documents are not actually documents.</description>
     </item>
     
     <item>
       <title>GSuite Migration Part 4 - Import Calendar</title>
-      <link>http://erikvancraddock.com/2021/02/gsuite-migration-calendar/</link>
+      <link>/2021/02/gsuite-migration-calendar/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://erikvancraddock.com/2021/02/gsuite-migration-calendar/</guid>
+      <guid>/2021/02/gsuite-migration-calendar/</guid>
       <description>Import Google Suite calendar into your gmail.com account This process is pretty simple. You go into settings and export your contacts from one account and import them into the other.
  Go to the calendar website and log in as your Google Suite/Apps account Click on the gear icon and then click Settings Click on &amp;ldquo;Import &amp;amp; Export&amp;rdquo; in the sidebar Click on the Export button, this will save a zip file in your computers Download folder Open your Downloads folder and extract the zip file Go to the calendar website and log in as your gmail.</description>
     </item>
     
     <item>
       <title>GSuite Migration Part 3 - Import Contacts</title>
-      <link>http://erikvancraddock.com/2021/02/gsuite-migration-contacts/</link>
+      <link>/2021/02/gsuite-migration-contacts/</link>
       <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://erikvancraddock.com/2021/02/gsuite-migration-contacts/</guid>
+      <guid>/2021/02/gsuite-migration-contacts/</guid>
       <description>Import Google Suite contacts into your gmail.com account The email import tool claims to also import your contacts. That does not seem to be the case in my experience. Thankfully, exporting and importing contacts is pretty simple. However, having duplicate contacts is annoying. You should probably verify that your contacts have already been imported. Otherwise here is how you do it.
  Go to the contacts website and log in as your Google Suite/Apps account Click on the Export link in the sidebar and then select Google CSV and click the Export button It will prompt you with how to handle the file.</description>
     </item>
     
     <item>
       <title>GSuite Migration Part 2 - Import Email</title>
-      <link>http://erikvancraddock.com/2021/02/gsuite-migration-email/</link>
+      <link>/2021/02/gsuite-migration-email/</link>
       <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://erikvancraddock.com/2021/02/gsuite-migration-email/</guid>
+      <guid>/2021/02/gsuite-migration-email/</guid>
       <description>Import Google Suite email into your gmail.com account If you are worried about changing your email address, don&amp;rsquo;t be. I know that a lot of you have had your google apps email address for awhile. You have given it out to a lot of people. You want to continue to use it. You will still be able to use your email address.
 What we are going to do is forward your email address from your google app email to your new gmail.</description>
     </item>
     
     <item>
       <title>GSuite Migration - Introduction</title>
-      <link>http://erikvancraddock.com/2021/02/gsuite-migration-intro/</link>
+      <link>/2021/02/gsuite-migration-intro/</link>
       <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://erikvancraddock.com/2021/02/gsuite-migration-intro/</guid>
+      <guid>/2021/02/gsuite-migration-intro/</guid>
       <description>Many years ago I setup my personal domain using Google Apps. Over the years, I gave friends and family accounts on my personal domain. When I first set this up it was free. It no longer is and I have decided to move my domain off of Google Suite as it is now called. Switching isn&amp;rsquo;t as easy as you would hope. There are several things to consider.
  Third party applications that use Google Authentication Email Contacts Calendar Google Drive  As I mentioned, family and friends are also using this domain.</description>
     </item>
     
     <item>
       <title>How to find good ideas</title>
-      <link>http://erikvancraddock.com/2021/02/good-ideas/</link>
+      <link>/2021/02/good-ideas/</link>
       <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://erikvancraddock.com/2021/02/good-ideas/</guid>
+      <guid>/2021/02/good-ideas/</guid>
       <description>For several years, I wrote articles for this blog regularly. I never had a particular subject that I focused on. I never considered writing as something serious. I just wanted to be a better writer, and the best way to learn to write is to write.
 What I actually learned is that I enjoy writing and dread it at the same time. I always got stuck on what to write. What do I have to say that is worth reading?</description>
     </item>

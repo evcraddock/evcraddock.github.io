@@ -2,21 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>plan on ERIK.VAN.CRADDOCK</title>
-    <link>http://erikvancraddock.com/tags/plan/</link>
+    <link>/tags/plan/</link>
     <description>Recent content in plan on ERIK.VAN.CRADDOCK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Feb 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://erikvancraddock.com/tags/plan/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 28 Feb 2016 00:00:00 +0000</lastBuildDate><atom:link href="/tags/plan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Plan to Succeed</title>
-      <link>http://erikvancraddock.com/2016/02/plan-to-succeed/</link>
+      <link>/2016/02/plan-to-succeed/</link>
       <pubDate>Sun, 28 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://erikvancraddock.com/2016/02/plan-to-succeed/</guid>
+      <guid>/2016/02/plan-to-succeed/</guid>
       <description>Much of the time, we set ourselves up for failure. We set goals in order to please someone else. We plan for things that we aren’t ready to tackle. We try to do too much. These are recipes for failure. If you are going to set goals, make sure that they are achievable. Spend some time figuring out what you need to do. Determine what success looks like and make plans.</description>
     </item>
     

@@ -2,31 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on ERIK.VAN.CRADDOCK</title>
-    <link>http://erikvancraddock.com/page/</link>
+    <link>/page/</link>
     <description>Recent content in Pages on ERIK.VAN.CRADDOCK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 May 2016 10:24:42 -0500</lastBuildDate>
-    
-	<atom:link href="http://erikvancraddock.com/page/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 15 May 2016 10:24:42 -0500</lastBuildDate><atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What I&#39;m Reading</title>
-      <link>http://erikvancraddock.com/what-im-reading/</link>
+      <link>/what-im-reading/</link>
       <pubDate>Sun, 15 May 2016 10:24:42 -0500</pubDate>
       
-      <guid>http://erikvancraddock.com/what-im-reading/</guid>
+      <guid>/what-im-reading/</guid>
       <description>I love to read. I read so much that sometimes I worry about how healthy it might be. When I am in need of a good book I ask my friends. So it is only fair that I also recommend the books that I enjoy.
 Currently Reading Most Recent Books I&amp;rsquo;ve Read My Favorite Books </description>
     </item>
     
     <item>
       <title>About Erik Craddock</title>
-      <link>http://erikvancraddock.com/aboutme/</link>
+      <link>/aboutme/</link>
       <pubDate>Wed, 08 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://erikvancraddock.com/aboutme/</guid>
+      <guid>/aboutme/</guid>
       <description>I am a musician, writer and software developer not necessarily in that order depending on the day. This website serves as a sort of haphazard living autobiography.
 I would like to state that it is written for an audience of one, me, but that would be a lie. I suffer just enough from megalomania to believe that others might be interested in my ramblings.
 Practically speaking this website is a platform for documenting my ever evolving interests, ideas and life experiences.</description>

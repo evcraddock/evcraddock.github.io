@@ -2,66 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on ERIK.VAN.CRADDOCK</title>
-    <link>http://erikvancraddock.com/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on ERIK.VAN.CRADDOCK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Feb 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://erikvancraddock.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 27 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Work</title>
-      <link>http://erikvancraddock.com/categories/work/</link>
+      <link>/categories/work/</link>
       <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://erikvancraddock.com/categories/work/</guid>
+      <guid>/categories/work/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ideas</title>
-      <link>http://erikvancraddock.com/categories/ideas/</link>
+      <link>/categories/ideas/</link>
       <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://erikvancraddock.com/categories/ideas/</guid>
+      <guid>/categories/ideas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Productivity</title>
-      <link>http://erikvancraddock.com/categories/productivity/</link>
+      <link>/categories/productivity/</link>
       <pubDate>Sun, 05 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://erikvancraddock.com/categories/productivity/</guid>
+      <guid>/categories/productivity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Family</title>
-      <link>http://erikvancraddock.com/categories/family/</link>
+      <link>/categories/family/</link>
       <pubDate>Wed, 18 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://erikvancraddock.com/categories/family/</guid>
+      <guid>/categories/family/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Book Review</title>
-      <link>http://erikvancraddock.com/categories/book-review/</link>
+      <link>/categories/book-review/</link>
       <pubDate>Sun, 25 Aug 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://erikvancraddock.com/categories/book-review/</guid>
+      <guid>/categories/book-review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Music</title>
-      <link>http://erikvancraddock.com/categories/music/</link>
+      <link>/categories/music/</link>
       <pubDate>Wed, 13 Feb 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://erikvancraddock.com/categories/music/</guid>
+      <guid>/categories/music/</guid>
       <description></description>
     </item>
     
