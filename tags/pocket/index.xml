@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pocket on ERIK.VAN.CRADDOCK</title>
-    <link>/tags/pocket/</link>
+    <link>http://erikvancraddock.com/tags/pocket/</link>
     <description>Recent content in Pocket on ERIK.VAN.CRADDOCK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jun 2016 00:00:00 +0000</lastBuildDate><atom:link href="/tags/pocket/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Jun 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://erikvancraddock.com/tags/pocket/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How I consume the Internet</title>
-      <link>/2016/06/how-i-consume-the-internet/</link>
+      <link>http://erikvancraddock.com/2016/06/how-i-consume-the-internet/</link>
       <pubDate>Wed, 29 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>/2016/06/how-i-consume-the-internet/</guid>
+      <guid>http://erikvancraddock.com/2016/06/how-i-consume-the-internet/</guid>
       <description>I am an information junkie. I go from one obsession to the next. The Internet deals me out a constant supply of articles, images, music and video on any and every subject I can imagine. It is very easy to get sucked in. If I&amp;rsquo;m not careful I will find myself reading about some obscure religious rite or the mating habits of deep sea creatures or Neuromancer fan fiction. Every subject is represented.</description>
     </item>
     
