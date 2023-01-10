@@ -23,7 +23,7 @@
       
       <guid>/2021/02/gsuite-migration-calendar/</guid>
       <description>Import Google Suite calendar into your gmail.com account This process is pretty simple. You go into settings and export your contacts from one account and import them into the other.
- Go to the calendar website and log in as your Google Suite/Apps account Click on the gear icon and then click Settings Click on &amp;ldquo;Import &amp;amp; Export&amp;rdquo; in the sidebar Click on the Export button, this will save a zip file in your computers Download folder Open your Downloads folder and extract the zip file Go to the calendar website and log in as your gmail.</description>
+Go to the calendar website and log in as your Google Suite/Apps account Click on the gear icon and then click Settings Click on &amp;ldquo;Import &amp;amp; Export&amp;rdquo; in the sidebar Click on the Export button, this will save a zip file in your computers Download folder Open your Downloads folder and extract the zip file Go to the calendar website and log in as your gmail.</description>
     </item>
     
     <item>
@@ -33,7 +33,7 @@
       
       <guid>/2021/02/gsuite-migration-contacts/</guid>
       <description>Import Google Suite contacts into your gmail.com account The email import tool claims to also import your contacts. That does not seem to be the case in my experience. Thankfully, exporting and importing contacts is pretty simple. However, having duplicate contacts is annoying. You should probably verify that your contacts have already been imported. Otherwise here is how you do it.
- Go to the contacts website and log in as your Google Suite/Apps account Click on the Export link in the sidebar and then select Google CSV and click the Export button It will prompt you with how to handle the file.</description>
+Go to the contacts website and log in as your Google Suite/Apps account Click on the Export link in the sidebar and then select Google CSV and click the Export button It will prompt you with how to handle the file.</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@ What we are going to do is forward your email address from your google app email
       
       <guid>/2021/02/gsuite-migration-intro/</guid>
       <description>Many years ago I setup my personal domain using Google Apps. Over the years, I gave friends and family accounts on my personal domain. When I first set this up it was free. It no longer is and I have decided to move my domain off of Google Suite as it is now called. Switching isn&amp;rsquo;t as easy as you would hope. There are several things to consider.
- Third party applications that use Google Authentication Email Contacts Calendar Google Drive  As I mentioned, family and friends are also using this domain.</description>
+Third party applications that use Google Authentication Email Contacts Calendar Google Drive As I mentioned, family and friends are also using this domain.</description>
     </item>
     
     <item>

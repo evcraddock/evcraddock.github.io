@@ -32,7 +32,7 @@
       
       <guid>/2021/02/gsuite-migration-calendar/</guid>
       <description>Import Google Suite calendar into your gmail.com account This process is pretty simple. You go into settings and export your contacts from one account and import them into the other.
- Go to the calendar website and log in as your Google Suite/Apps account Click on the gear icon and then click Settings Click on &amp;ldquo;Import &amp;amp; Export&amp;rdquo; in the sidebar Click on the Export button, this will save a zip file in your computers Download folder Open your Downloads folder and extract the zip file Go to the calendar website and log in as your gmail.</description>
+Go to the calendar website and log in as your Google Suite/Apps account Click on the gear icon and then click Settings Click on &amp;ldquo;Import &amp;amp; Export&amp;rdquo; in the sidebar Click on the Export button, this will save a zip file in your computers Download folder Open your Downloads folder and extract the zip file Go to the calendar website and log in as your gmail.</description>
     </item>
     
     <item>
@@ -42,7 +42,7 @@
       
       <guid>/2021/02/gsuite-migration-contacts/</guid>
       <description>Import Google Suite contacts into your gmail.com account The email import tool claims to also import your contacts. That does not seem to be the case in my experience. Thankfully, exporting and importing contacts is pretty simple. However, having duplicate contacts is annoying. You should probably verify that your contacts have already been imported. Otherwise here is how you do it.
- Go to the contacts website and log in as your Google Suite/Apps account Click on the Export link in the sidebar and then select Google CSV and click the Export button It will prompt you with how to handle the file.</description>
+Go to the contacts website and log in as your Google Suite/Apps account Click on the Export link in the sidebar and then select Google CSV and click the Export button It will prompt you with how to handle the file.</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@ What we are going to do is forward your email address from your google app email
       
       <guid>/2021/02/gsuite-migration-intro/</guid>
       <description>Many years ago I setup my personal domain using Google Apps. Over the years, I gave friends and family accounts on my personal domain. When I first set this up it was free. It no longer is and I have decided to move my domain off of Google Suite as it is now called. Switching isn&amp;rsquo;t as easy as you would hope. There are several things to consider.
- Third party applications that use Google Authentication Email Contacts Calendar Google Drive  As I mentioned, family and friends are also using this domain.</description>
+Third party applications that use Google Authentication Email Contacts Calendar Google Drive As I mentioned, family and friends are also using this domain.</description>
     </item>
     
     <item>
@@ -163,7 +163,7 @@ Remembering Phone Numbers When I was a teenager, I could remember a telephone nu
       <pubDate>Mon, 08 Oct 2012 00:00:00 +0000</pubDate>
       
       <guid>/2012/10/how-to-build-habits-with-google-forms/</guid>
-      <description>There is a big difference between knowing what to do and actually doing it. It is easy to wastespend a lot time learning how to use it efficiently. There are dozens of time management systems out there. The one thing that they all have in common is a need of consistency. In order for a time management system to improve your life, you must consistently use it. In other words, you must build habits.</description>
+      <description>There is a big difference between knowing what to do and actually doing it. It is easy to waste spend a lot time learning how to use it efficiently. There are dozens of time management systems out there. The one thing that they all have in common is a need of consistency. In order for a time management system to improve your life, you must consistently use it. In other words, you must build habits.</description>
     </item>
     
   </channel>
